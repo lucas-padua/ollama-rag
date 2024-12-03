@@ -1,4 +1,6 @@
 from src.rag_pipeline import RAGPipeline
+import sys
+import time
 
 
 def main():
@@ -9,8 +11,7 @@ def main():
         if query.lower() in ["exit", "quit", "q"]:
             break
 
-        response = rag.query(query)
-        print("Assistant:", response)
+        rag.query(query)
 
 
 if __name__ == "__main__":
