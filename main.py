@@ -11,7 +11,10 @@ def main():
         if query.lower() in ["exit", "quit", "q"]:
             break
 
-        rag.query(query)
+        response = rag.query(query)
+
+        for item in response.metadata:
+            print(response.metadata[item]["file_name"])
 
 
 if __name__ == "__main__":

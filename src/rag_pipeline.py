@@ -47,12 +47,12 @@ class RAGPipeline:
         )
 
     def query(self, user_query):
-        response = self.query_engine.query(user_query)
-        evaluation = self.evaluator.evaluate_response(response=response)
-        for token in str(response).split(" "):
-            print(token, end=" ", flush=True)
-            sys.stdout.flush()
-            time.sleep(0.4)
-        print()
-        print("\n", str(evaluation.passing))
-        print("\n", str(evaluation.feedback))
+        return self.query_engine.query(user_query)
+        # evaluation = self.evaluator.evaluate_response(response=response)
+        # for token in str(response).split(" "):
+        #     print(token, end=" ", flush=True)
+        #     sys.stdout.flush()
+        #     time.sleep(0.4)
+        # print()
+        # print("\n", str(evaluation.passing))
+        # print("\n", str(evaluation.feedback))
