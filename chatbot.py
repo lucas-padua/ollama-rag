@@ -1,4 +1,3 @@
-from openai import OpenAI
 from src.rag_pipeline import RAGPipeline
 import streamlit as st
 import time

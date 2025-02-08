@@ -1,0 +1,41 @@
+services:
+  ollama:
+    image: ollama/ollama:latest
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/var/lib/ollama
+      - ./entrypoint.sh:/entrypoint.sh
+    container_name: ollama
+    networks:
+      - ollama-rag_app-network
+    entrypoint: ["usr/bin/bash", "/entrypoint.sh"]
+    deploy:
+      resources:
+        reservations:
+          devices:
+          - driver: nvidia
+            capabilities: ["gpu"]
+            count: all
+
+  chatbot:
+    build: .
+    ports:
+      - "8501:8501"
+    volumes:
+      - .:/app
+    depends_on:
+      - ollama  
+    networks:
+      - ollama-rag_app-network
+    env_file:
+      - .env
+    restart: always
+
+
+volumes:
+  ollama_data:
+
+networks:
+  ollama-rag_app-network:
+    driver: bridge

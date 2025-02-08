@@ -1,0 +1,11 @@
+streamlit
+llama-index
+sentence-transformers
+transformers
+faiss-cpu
+chromadb
+huggingface-hub
+llama-index-embeddings-huggingface
+llama-index-embeddings-instructor
+llama-index-llms-ollama
+llama-index-vector-stores-chroma

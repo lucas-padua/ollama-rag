@@ -20,7 +20,11 @@ import time
 
 class RAGPipeline:
     def __init__(self, documents_path):
-        Settings.llm = Ollama(model="medllama2", request_timeout=600)
+        Settings.llm = Ollama(
+            model="medllama2",
+            request_timeout=600,
+            base_url="http://ollama:11434",
+        )
         Settings.embed_model = HuggingFaceEmbedding(model_name="BAAI/bge-small-en-v1.5")
 
         documents = SimpleDirectoryReader(documents_path).load_data()
