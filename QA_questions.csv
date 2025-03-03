@@ -1,0 +1,2198 @@
+,context,question,answer,source_doc,groundedness_score,groundedness_eval,relevance_score,relevance_eval,standalone_score,standalone_eval
+0,"Endometriosis 
+Management strategies 
+ISBN 978-1-4731-2661-9 
+277 
+Outcomes 
+Illustrative comparative risks 
+(95% CI) 
+Relative 
+effect 
+(95% CI) 
+No of Partici-
+pants 
+(studies) 
+Quality of 
+the 
+evidence 
+(GRADE) 
+Assumed risk 
+Corresponding 
+risk 
+(2.9 lower to 8.3 
+higher) 
+SF-12 Mental 
+component score – 
+At 6 months 
+- 
+The mean FS-
+12 mental 
+component 
+score at 6 
+months in the 
+intervention 
+groups was 2.3 
+higher 
+(4.5 lower to 9.1 
+higher) 
+MD 2.3 (-
+4.5 to 
+9.1) 
+39  
+(1 study) 
+ 
+⊕⊕⊕⊝ 
+Moderate1,
+3 
+CI: confidence interval; RR: Risk ratio; MD: mean difference; EQ-5D: EuroQol five dimensions, SF-12: 12-Item 
+Short Form Survey 
+1 Unclear if selective reporting 
+2 Evidence was downgraded by two due to performance bias (blinding of participants and personnel and attrition 
+bias (incomplete outcome data) 
+3 Evidence was downgraded by one due to serious imprecision as 95%CI crossed one default MID  
+4 No blinding of participants and personnel and incomplete outcome data  
+5 Evidence was downgraded by two due to very serious imprecision as 95%CI crossed two default MIDs 
+Table 117: Summary clinical evidence profile: Excisional surgery versus ablative 
+surgery for endometriosis and endometrioma 
+Outcomes 
+Illustrative comparative risks (95% 
+CI) 
+Relative 
+effect 
+(95% 
+CI) 
+No of 
+Participants 
+(studies) 
+Quality of the 
+evidence 
+(GRADE) 
+Assumed 
+risk 
+Corresponding risk 
+Diagnosti
+c 
+laparosco
+py 
+Excisional/ablation 
+ 
+ 
+ 
+Endometriosis 
+ 
+ 
+ 
+ 
+ 
+Pain score 
+(reduction in VAS at 
+12 months) - 
+Overall 
+- 
+The mean pain score 
+(reduction in VAS at 
+12 months) - overall 
+in the intervention 
+groups was 
+0 higher 
+(1.22 lower to 1.22 
+higher) 
+MD 0 (-
+1.22 to 
+1.22) 
+103 
+(1 study) 
+ 
+⊕⊕⊝⊝ 
+Low1 
+Pain score 
+(reduction in VAS at 
+12 months) - Pelvic 
+- 
+The mean pain score 
+(reduction in VAS at 
+12 months) - pelvic in 
+the intervention 
+groups was 
+0.1 lower 
+(1.3 lower to 1.1 
+higher) 
+MD -0.1 
+(-1.3 to 
+1.1) 
+103 
+(1 study) 
+ 
+⊕⊕⊝⊝ 
+Low1 
+Pain score","What is the mean pain score reduction in VAS at 12 months for pelvic pain in the intervention groups for excisional/ablation surgery for endometriosis?
+",The mean pain score reduction in VAS at 12 months for pelvic pain in the intervention groups for excisional/ablation surgery for endometriosis is 0.1 lower (1.3 lower to 1.1 higher).,NICE-2017.pdf,2.0,"The context provides the mean pain score reduction in VAS at 12 months for pelvic pain in the intervention groups for excisional/ablation surgery for endometriosis, which is -0.1 (1.3 lower to 1.1 higher). However, it does not provide the mean pain score reduction in VAS at 12 months for all types of pain in the intervention groups for excisional/ablation surgery for endometriosis. Therefore, I cannot give a complete answer to the question.
+",5.0,"This question is useful for gynecologists diagnosing endometriosis, planning a endometriosis therapy or treating a patient with endometriosis. The question asks about the mean pain score reduction in VAS at 12 months for pelvic pain in the intervention groups for excisional/ablation surgery for endometriosis. This information is important for gynecologists to understand the effectiveness of excisional/ablation surgery for endometriosis in reducing pelvic pain.
+",5.0,"The question is about the mean pain score reduction in VAS at 12 months for pelvic pain in the intervention groups for excisional/ablation surgery for endometriosis. It is a question that can be understood by itself, without any additional context.
+"
+1,"dometriosis 9 has proven useful in routine clinical practice; it takes into account the concept of a single
+disease entity.
+In decreasing order of frequency, the following are involved: pelvic peritoneum, ovaries, uterosacral
+ligaments, rectovaginal septum/vaginal fornix, and extragenital sites (e.g., rectosigmoid colon and uri‐
+nary bladder).
+The incidence of involvement of the uterus (adenomyosis) and tubes is not entirely clear. The diaphrag‐
+matic peritoneum 137, 
+155, the vermiform appendix 71 and the umbilicus 197 are rare but typical extra‐
+genital sites. Endometriosis also occurs in surgical scars following hysterectomy, cesarean section, epi‐
+siotomy, and perineal lacerations 19, 
+62, 
+144, 
+167. It is debated that this may be caused by the mechani‐
+cal transfer of endometrial particles. Manifestations in the spleen, lungs, kidneys, brain or skeleton are
+rare.
+Patient information – Causes of endometriosis
+The causes of the development of endometriosis have not yet been scientifically proven. No
+causal treatment options are, therefore, available at present which might enable endometriosis
+to be eliminated completely or cured. There is also no treatment available that prevents en‐
+dometriosis from developing in the first place.
+Endometriosis and malignancy Core statements:","What are the rare extra-genital sites of endometriosis?
+","The diaphragmatic peritoneum, the vermiform appendix, and the umbilicus are rare extra-genital sites of endometriosis.",S2k-2014.pdf,3.0,"The context provides a list of extra-genital sites of endometriosis, including the diaphragmatic peritoneum, the vermiform appendix, and the umbilicus. It also mentions that endometriosis can occur in surgical scars and that manifestations in the spleen, lungs, kidneys, brain, or skeleton are rare. Therefore, the question is answerable with the context, but it does not provide a comprehensive list of all possible rare extra-genital sites. ",1.0,"This question is not related to machine learning, natural language processing, or the Hugging Face ecosystem. It is a medical question about endometriosis. Therefore, it is not useful for machine learning developers building NLP applications with the Hugging Face ecosystem.
+",5.0,"This question is context-independent and does not require any additional information to be understood. It is clear from the question that the answer should list the rare extra-genital sites of endometriosis.
+
+"
+2,"Preoperative treatment with the anti-TNFa antibody inﬂiximab
+does not reduce pain symptoms or lesion volume in patients with
+rectovaginal septum disease (LoE2). In the postoperative setting,
+goserelin alone for 6 months is associated with a higher 2-year
+recurrence rate than the combination of goserelin + anastrazole
+(LoE2). A 6-month course of the selective oestrogen receptor
+modulator raloxifene after complete surgical excision of endome-
+triosis is associated with more rapid and more frequent recurrence
+of pain symptoms than with placebo (LoE2).
+Selective oestrogen receptor modulators are not recommended
+after surgery for endometriosis (Grade B). In the absence of data,
+aromatase inhibitors, selective oestrogen receptor modulators, selec-
+tive progesterone receptor modulators, and TNFa inhibitors are not
+recommended for managing endometriosis-related pain (Grade C).
+The current data do not yet justify recommending elagolix for the
+treatment of endometriosis-related pain outside the clinical trial
+setting (Grade C).
+These recommendations could be revised once the results of
+ongoing clinical trials are available.
+Hormonal therapy for endometriosis-related pain in
+adolescents
+In light of their efﬁcacy against dysmenorrhoea and endometriosis-
+related pain in adults, and their tolerability, a CHC or low-dose
+progestogen contraceptive is recommended as ﬁrst-line therapy for
+adolescents with endometriosis-related pain when not contraindica-
+ted (Expert Consensus) [14]. If the ﬁrst-line strategy fails, the opinion
+of a specialist is recommended in order to determine the best
+diagnostic and treatment strategy to adopt (Expert Consensus).
+Dienogest and GnRHas are effective against endometriosis-
+related pain in adolescents (LoE2) [14].
+Given the risks of bone demineralization, GnRHas are not
+recommended for adolescent patients (Grade B). GnRHas must not
+be prescribed before the age of 16 years (18 years of age according
+to 
+the 
+marketing 
+authorization). 
+The 
+maximum","What is the recommended first-line therapy for adolescents with endometriosis-related pain?
+",A CHC or low-dose progestogen contraceptive is recommended as first-line therapy for adolescents with endometriosis-related pain when not contraindicated.,CNGOF-2018.pdf,,,,,,
+3,"CHAPTER 3
+Medical Management of Pain Associated
+With Endometriosis
+E
+ndometriosis is a chronic and often progressive inflam-
+matory condition of the pelvis whose predominant
+symptom is pain. The overall amount of endometriosis is
+not related to the frequency or severity of symptoms, and
+the condition’s etiology remains unknown. Thus, by neces-
+sity, medical therapy is non-specific and aimed at alleviating
+symptoms. Since there is no cure, medical treatments must
+be effective and safe to use until the age of menopause or
+until pregnancy is desired. See Figure.
+IS PRIOR LAPAROSCOPY REQUIRED?
+Laparoscopy is not always necessary before medical man-
+agement of pelvic pain is started. In women with severe
+dysmenorrhea or chronic pelvic pain that is compromising
+their quality of life, management of the pain is required
+whether or not endometriosis is the cause. Since all the
+management strategies for endometriosis are relatively gen-
+eral strategies to decrease inflammatory conditions in the
+pelvis, the treatments are applicable to pelvic pain whether a
+diagnosis of endometriosis is made or not.
+The presence of endometriosis can be strongly suspected in
+cases of severe dysmenorrhea unresponsive to NSAID
+treatment, with pelvic tenderness and nodularity on palpation
+of the uterosacral ligaments and rectovaginal septum, or
+with ultrasound documentation of an ovarian cyst with an
+appearance typical of an endometrioma. In these situations,
+laparoscopy for diagnosis is not necessary before medical
+treatment. Laparoscopy should generally be performed only
+if the surgeon is prepared to vaporize or excise lesions if
+endometriosis is discovered, since there is good evidence
+that surgical management provides long-term pain relief for
+up to 50% of patients with endometriosis.1–3
+COMBINED ESTROGEN AND PROGESTIN THERAPY
+The use of oral contraceptives that combine estrogen and
+progestin is considered first-line treatment for pelvic pain","What is the first-line treatment for pelvic pain?
+",The use of oral contraceptives that combine estrogen and progestin is considered first-line treatment for pelvic pain.,SOGC-2010.pdf,3.0,"The context provides information about the medical management of pain associated with endometriosis, specifically the use of combined estrogen and progestin therapy as first-line treatment for pelvic pain. The question asks about the first-line treatment for pelvic pain in general, not just in the context of endometriosis. However, the context does not provide any information about other potential first-line treatments for pelvic pain that are not related to endometriosis. Therefore, while the context does provide an answer to the question, it is not a comprehensive answer that covers all possible causes of pelvic pain. Based on this reasoning, I would rate the total rating as a 3.
+",4.0,"This question is useful for gynecologists diagnosing endometriosis, planning a endometriosis therapy or treating a patient with endometriosis, as pelvic pain is a common symptom of endometriosis. The first-line treatment for pelvic pain can vary depending on the cause, and endometriosis is one of the possible causes. Therefore, it is important to consider endometriosis as a potential cause of pelvic pain when diagnosing, planning a therapy or treating a patient.
+",5.0,"This question is context-independent, as it is a common medical term.
+"
+4,"For assessing the effectiveness of treatments, the Committee identified pain relief, health-
+related quality of life (QoL) and adverse events as critical outcomes for which NMA could be 
+used to aid decision-making. NMAs were performed on these outcomes where evidence was 
+available.  
+Pain relief 
+For pain relief, the visual analogue scale (VAS) was considered by the Committee to be the 
+most widely used useful pain scale for which data would be available. A series of subscales 
+first reported by Biberoglu and Behrman (1981) were also frequently used in studies of 
+hormonal treatments and NMAs of these subscales were also performed to provide 
+additional information on pain relief. There was sufficient evidence available for NMA for 
+dysmenorrhoea, dyspareunia and non-menstrual pelvic pain subscales, though not for 
+induration and pelvic tenderness subscales. Therefore induration and pelvic tenderness were 
+analysed within a separate pairwise comparison analysis. Dysmenorrhoea and non-
+menstrual pelvic pain were used in a multivariate analysis to inform the VAS scale, so their 
+results are not presented separately here. 
+Health-related QoL  
+For health-related QoL, the Short Form 36 Health Survey (SF-36) was determined by the 
+Committee to the most useful scale that was widely used in the literature. However, there 
+were not a sufficient number of studies available from the systematic review to allow for 
+NMA. Therefore these studies were analysed within the separate pairwise comparison 
+analysis where appropriate.","What scale was used to measure health-related QoL?
+",The Short Form 36 Health Survey (SF-36),NICE-2017.pdf,1.0,"The context provides information about the methods used to measure pain relief, but it does not provide any information about the scale used to measure health-related QoL. The context only mentions that the Short Form 36 Health Survey (SF-36) was determined by the Committee to be the most useful scale for measuring health-related QoL, but it does not provide any information about the scale itself. Therefore, it is not possible to answer the question unambiguously with the given context.
+",3.0,"This question is useful for understanding the methodology of the study and the validity of the results. If the health-related QoL was measured using a non-standardized or non-validated scale, the results may not be comparable to other studies or may not accurately reflect the patients' actual QoL.
+",,
+5,"adolescent girls, Archives of Gynecology & Obstetrics, 261, 89-93, 1998 
+Shakiba et al. 2008 
+Shakiba K, Bena JF, McGill KM, Minger J, Falcone T. Surgical treatment of endometriosis: a 
+7-year follow-up on the requirement for further surgery. Obstetrics and Gynecology, 111, 
+1285-92, 2008Falcone et al., 2008 
+Fedele et al., 1989b 
+Fedele, L., Bianchi, S., Arcaini, L., Vercellini, P., Candiani, G. B., Buserelin versus danazol in 
+the treatment of endometriosis-associated infertility, American Journal of Obstetrics and 
+Gynecology, 161, 871-876, 1989 
+Fedele et al., 1992 
+Fedele, L., Parazzini, F., Radici, E., Bocciolone, L., Bianchi, S., Bianchi, C., Candiani, G. B., 
+Buserelin acetate versus expectant management in the treatment of infertility associated with 
+minimal or mild endometriosis: a randomized clinical trial, American Journal of Obstetrics and 
+Gynecology, 166, 1345-1350, 1992","What is the name of the study that compared Buserelin acetate versus expectant management in the treatment of infertility associated with minimal or mild endometriosis?
+","The name of the study is ""Buserelin acetate versus expectant management in the treatment of infertility associated with minimal or mild endometriosis: a randomized clinical trial"".",NICE-2017.pdf,2.0,"The context provides the name of the study, which is ""Shakiba et al. 2008"". However, the context does not provide the exact title of the study, only the authors and the year of publication. Therefore, it is not possible to unambiguously determine the name of the study. ",5.0,"This question is useful for gynecologists diagnosing endometriosis, planning a endometriosis therapy or treating a patient with endometriosis, as it refers to a study that compares two different treatment options for infertility associated with minimal or mild endometriosis. Knowing the name of this study can help gynecologists to make informed decisions about the best treatment options for their patients.
+",5.0,"This question is context-independent, as it refers to a specific study, but does not require any additional information to be understood.
+"
+6,"2010;32(6):598-608.
+SRS 2007
+Practice Committee of the American Society for Reproductive
+Medicine: Society of Reproductive Surgeons. Pathogenesis,
+consequences and control of peritoneal adhesions in
+gynecologic surgery. Fertility & Sterility 2007;88:21-6.
+Ten Broek 2013
+ten Broek RP, Stommel MW, Strik C, van Laarhoven CJ, Keus F,
+van Goor H. Burden of adhesions in abdominal and pelvic
+surgery: systematic review and meta-analysis. BMJ 2013;3:347.
+Wiseman 1999
+Wiseman DM, Trout JR, Franklin RR, Diamond MP. Metaanalysis
+of safety and eficacy of an absorbable adhesion barrier
+(INTERCEED TC7) in laparotomy. Journal of Reproductive
+Medicine 1999;44(4):325-31.
+ 
+References to other published versions of this review
+Ahmad 2015
+Ahmad G, O'Flynn H, Hindocha A, Watson A. Barrier agents
+for adhesion prevention afer gynaecological surgery.
+Cochrane Database of Systematic Reviews 2015, Issue 4. [DOI:
+10.1002/14651858.CD000475.pub3]
+Farquhar 1999
+Farquhar C, Vandekerchove P, Watson A, Vail A, Wiseman D.
+Barrier agents for preventing adhesions afer surgery for
+preventing subfertility. Cochrane Database of Systematic
+Reviews 1999, Issue 2. [DOI: 10.1002/14651858.CD000475]
+Barrier agents for adhesion prevention afer gynaecological surgery (Review)
+Copyright © 2020 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+27","What is the name of the Cochrane Review on barrier agents for adhesion prevention after gynaecological surgery?
+",The name of the Cochrane Review is 'Barrier agents for adhesion prevention afer gynaecological surgery'.,cochrane-adhesion-2020.pdf,5.0,"The context provides a reference to the Cochrane Review on barrier agents for adhesion prevention after gynaecological surgery. The reference includes the title of the review, the authors, and the publication details. Therefore, the question is clearly and unambiguously answerable with the context.
+
+",5.0,"This question is useful for Gynecologists diagnosing endometriosis, planning a endometriosis therapy or treating a patient with endometriosis because it allows them to access a high-quality systematic review on the use of barrier agents for adhesion prevention after gynaecological surgery. This can help them make informed decisions about the use of these agents in their clinical practice.
+",5.0,"The question is clear and does not require any additional information to be understood.
+
+"
+7,"Endometriosis 
+Diagnosis 
+ISBN 978-1-4731-2661-9 
+150 
+The option of a research recommendation was discussed but the Committee agreed that this 
+methodology would never be specific enough to diagnose endometriosis and therefore 
+further research would, most likely, not provide evidence that would support a positive or 
+negative recommendation for this. 
+9.3.3.7.6 
+Key conclusions 
+The Committee decided not to make a recommendation or a research recommendation 
+based on their discussion about PGP 9.5. This is mainly due to the fact that this methodology 
+in not specific as a diagnostic tool to detect endometriosis. It was agreed that as a method of 
+testing it requires standardisation in methodology, it is not routinely used in current practice, 
+it is not conclusively validated and utilised in most laboratories and is expensive.  
+9.3.3.8 
+Recommendations 
+No recommendation was made.  
+9.3.3.9 
+Research recommendations  
+No research recommendation was made. 
+9.4 Magnetic resonance imaging (MRI) 
+Review question: What is the accuracy of MRI in diagnosing endometriosis?  
+9.4.1 
+Introduction  
+MRI is a non-invasive test for the diagnosis of endometriosis and, if it is accurate, it could 
+lead to the diagnosis without the need for a surgical procedure or it could decrease the need 
+for it.  
+The aim of this review was to evaluate the accuracy of MRI for the diagnosis of 
+endometriosis in women with suspected endometriosis.  
+For full details see review protocol in Appendix D. 
+9.4.2 
+Description of clinical evidence 
+Two studies were included in this review. Evidence was available from 1 Cochrane 
+systematic review (Nisenblat 2016) and 1 observational study (Arrive 1989). Seventeen 
+studies within the Cochrane systematic review were relevant (Abrao 2007, Ascher 1995, 
+Bazot 2009, Bazot 2013, Biscaldi 2014, Chamie 2009, Ha 1994, Hottat 2009, Grasso 2010, 
+Manganaro 2012a, Manganaro 2012b, Manganaro 2013, Okada 1995, Stratton 2003,","What is the accuracy of MRI in diagnosing endometriosis?
+","The accuracy of MRI in diagnosing endometriosis is evaluated in a review, which includes two studies, one Cochrane systematic review, and 17 relevant studies within the Cochrane systematic review.",NICE-2017.pdf,5.0,"The context provides enough information to answer the question unambiguously. The context states that MRI is a non-invasive test for the diagnosis of endometriosis and, if it is accurate, it could lead to the diagnosis without the need for a surgical procedure or it could decrease the need for it. The context also states that the aim of the review was to evaluate the accuracy of MRI for the diagnosis of endometriosis in women with suspected endometriosis. The context also states that two studies were included in this review and evidence was available from 1 Cochrane systematic review and 1 observational study. The context also states that seventeen studies within the Cochrane systematic review were relevant. Therefore, the answer to the question is clearly and unambiguously answerable with the context.
+
+",4.0,"MRI is a non-invasive imaging technique that can be used to diagnose endometriosis. Its accuracy is reported to be around 75-90% in detecting endometriosis. However, the accuracy can vary depending on the severity of the disease, the location of the lesions, and the expertise of the radiologist interpreting the images. Therefore, MRI can be a useful tool in diagnosing endometriosis, but it should not be relied upon as the sole method of diagnosis.
+",5.0,"This question is context-independent, as it refers to a medical procedure and a medical condition, both of which are widely known.
+"
+8,"Figure 2. The recommended diagnostic process for endometriosis. DE, deep endometriosis; US, ultrasound.
+ESHRE guideline endometriosis
+5","What is the recommended diagnostic process for endometriosis?
+",The recommended diagnostic process for endometriosis is a process that involves ultrasound (US) and deep endometriosis (DE) as shown in Figure 2 of the ESHRE guideline for endometriosis.,ESHRE-2022.pdf,5.0,"The context provides a clear and unambiguous answer to the question, as it is a figure from the ESHRE guideline for endometriosis, which shows the recommended diagnostic process for endometriosis. The figure includes the steps of the diagnostic process, and the recommended tests to perform. Therefore, the total rating is 5.
+
+",5.0,"This question is extremely useful for gynecologists diagnosing endometriosis as it outlines the recommended diagnostic process. This is crucial information for ensuring accurate and timely diagnosis, which can significantly improve patient outcomes.
+",5.0,"The question is about a medical condition, endometriosis, and the recommended diagnostic process. It is a clear question, and it does not require any additional context to be understood.
+"
+9,"Endometriosis 
+Management strategies 
+ISBN 978-1-4731-2661-9 
+183 
+pharmacologic agents proportional to the level of pain reported. The initial step uses oral 
+administration of non-opioids such as paracetamol or NSAIDs. If pain is not controlled, then 
+mild opioids such as codeine are tried and, as a last step, strong opioids such as morphine 
+are used until the patient’s pain is alleviated. One benefit of the stepped approach is that 
+adverse events can be discovered throughout the process.  
+The Committee discussed whether the addition of an opioid analgesic could be considered if 
+pain was not adequately controlled after a trial period. However, the potential adverse effects 
+of opioid analgesia, such as dependency, were recognised, given the chronic nature of 
+endometriosis-related pain and, particularly, constipation. Therefore, the Committee 
+concluded that a referral for diagnosis might be more appropriate and that there were other 
+treatment options available.  
+The Committee also considered whether a research recommendation should be drafted for 
+this topic. They agreed that research into analgesia in the management of pain related to 
+endometriosis is not a priority for this guideline because there is sufficient indirect evidence 
+from other conditions available to draw upon. 
+The Committee considered whether any different recommendations were necessary for 
+adolescent women but concluded that none were required. 
+11.1.1.6.6 
+Key conclusions 
+The Committee concluded that a short trial of analgesics for first line management of pain in 
+women with endometriosis-related pain is appropriate. 
+11.1.1.7 
+Recommendations 
+32. For women with endometriosis-related pain, discuss the benefits and risks of 
+analgesics, taking into account any comorbidities and the woman's preferences. 
+33. Consider a short trial (for example, 3 months) of paracetamol or a non-steroidal 
+anti-inflammatory drug (NSAID) alone or in combination for first-line management","What is the first line management for endometriosis-related pain?
+",A short trial of analgesics is appropriate for first line management of pain in women with endometriosis-related pain.,NICE-2017.pdf,5.0,"The context provides a clear answer to the question. It states that the first line management for endometriosis-related pain is a short trial of paracetamol or a non-steroidal anti-inflammatory drug (NSAID) alone or in combination. Therefore, the total rating is 5.
+",5.0,"This question is extremely useful for gynecologists diagnosing endometriosis, planning a endometriosis treatment or treating a patient with endometriosis. It is important to know the first line management for endometriosis-related pain as it can help in reducing the pain and improving the quality of life of the patient.
+",5.0,"This question is context-independent, as it refers to a medical condition and its first line management. It does not require any additional information to be understood.
+"
+10,"Endometriosis 
+Management strategies 
+ISBN 978-1-4731-2661-9 
+209 
+All participants had a diagnosis or symptoms of endometriosis. One RCT examined a 
+comparison of a GnRH agonist (buserelin intranasal (IN)) to expectant management in a 
+population of women whose main symptom was infertility and who had undergone diagnostic 
+laparoscopy combined with dilation and curettage (D&C) (Fedele 1993).  
+Two RCTs examined comparisons of GnRH agonists to placebo (triptorelin IM 
+(intramuscular) depot and leuprolide IM depot) (Bergqvist 1998 and Ling 1999, respectively). 
+One RCT compared a combined oral contraceptive pill to placebo (Harada 2008).  
+Evidence was only available for the critical outcome of pain (outcomes not included in the 
+NMAs). There was no evidence available for any other critical or important outcomes. 
+Hormonal treatment compared with another hormonal treatment 
+Evidence was available from 2 studies comparing a hormonal treatment to another hormonal 
+treatment. One was a Cochrane systematic review (Brown 2010) and one was a RCT 
+(Schlaff 2006). Four RCTs within the Cochrane systematic review were relevant (Burry 1992, 
+Cheng 2005, Fedele 1989, Petta 2005).  
+Three RCTs examined a comparison of a GnRH agonist (nafarelin IN or buserelin IN) to 
+danazol (Burry 1992, Cheng 2005, Fedele 1989). One RCT compared leuprolide IM to a 
+levonorgestrel-releasing intrauterine system (LNG-IUS) to (Petta 2010) and 1 RCT compared 
+leuprolide to depot medroxyprogesterone acetate (DMPA) subcutaneous (SC) injections 
+(Schlaff 2006). All participants had laparoscopically confirmed endometriosis. One trial 
+(Fedele 1989) included infertile women only. 
+Evidence was available for the critical outcomes of pain (outcomes not included in the NMA) 
+and quality of life, and for the important outcomes of patients requiring surgery because of 
+reappearance of symptoms and the effect on daily activities. There was no evidence 
+available for any other important outcomes.","What is the main symptom of the population in the RCT that compared a GnRH agonist to expectant management?
+",The main symptom of the population in the RCT that compared a GnRH agonist to expectant management is infertility.,NICE-2017.pdf,1.0,"The context provides information about an RCT that compared a GnRH agonist to expectant management in a population of women with endometriosis. However, it does not specify the main symptom of the population in this RCT. Therefore, it is not possible to unambiguously answer the question with the given context.
+
+",4.0,"This question is useful for gynecologists diagnosing endometriosis, planning a endometriosis treatment or treating a patient with endometriosis because it asks about the main symptom of the population in a randomized controlled trial (RCT) that compared a GnRH agonist to expectant management. This information can help gynecologists understand the effectiveness of the GnRH agonist in reducing symptoms in patients with endometriosis.
+",1.0,"The question is asking about a specific RCT, and about a specific treatment option. The question is not independent from the context.
+
+"
+11,"(anastrazole, fadrozole, formestane, exemestane, letrozole) (Ferrero
+et al., 2011), selective progesterone receptor modulator (mifepris-
+tone, ulipristal) (Guo et al., 2011) and orally active GnRH antagonists
+(elagolix) (Struthers et al., 2009) have shown some promise and ef-
+fectiveness in RCTs, but more clinical experience is required with
+these agents and more clinical trial research data are essential, espe-
+cially with regard to their long-term efﬁcacy and side effects. For the
+immunomodulator, pentoxifylline (Lu et al., 2012), and the anti-TNF-a
+agent, inﬂiximab (Koninckx et al., 2008), RCTs have not shown beneﬁt
+to date. The selective estrogen receptor modulator (SERM), raloxi-
+fene, has been shown not to provide beneﬁt (Stratton et al., 2008).
+Possible future treatments yet to be exposed to RCT scrutiny, but
+where observational studies and case series have suggested promise,
+include the selective progesterone receptor modulators (SPRMs) aso-
+prisnil and megestrol (Spitz, 2009), the thiazolidinedione, rosiglitazone
+(Moravek et al., 2009) and valproic acid (Liu and Guo, 2008). As
+angiogenesis is a crucial activity for the normal processes of the repro-
+ductive tract and other organ systems, it is dubious whether agents
+used for their anti-angiogenic properties (including cabergoline, endo-
+statin, sirolimus, thalidomide and vascular endothelial growth factor
+inhibitors) will be useful clinically and these have been used only in
+animal research to date (Laschke and Menger, 2012).
+Complementary therapies for endometriosis symptoms
+Complementary therapies may help women to cope better with their
+endometriosis and its treatment and are supported by some evidence
+from RCTs.
+Endometriosis speciﬁc. Acupuncture appears to be moderately effective
+and safe but requires repeated treatments (Zhu et al., 2011). High-
+frequency transcutaneous electrical nerve stimulation (TENS) has
+some effectiveness for short-term pain management (Proctor et al.,","Which drug has been shown to be moderately effective and safe for endometriosis?
+",Acupuncture,WES-2013.pdf,1.0,"The context does not provide enough information to answer the question unambiguously. The context lists several drugs and treatments that have been studied for endometriosis, but it does not provide enough information about their effectiveness and safety specifically for endometriosis.
+
+",5.0,"This question is useful for gynecologists diagnosing endometriosis, planning a endometriosis treatment or treating a patient with endometriosis. It is asking about a specific drug that has been shown to be moderately effective and safe for endometriosis. This information can help gynecologists make informed decisions about treatment options for their patients.
+",5.0,"This question is context-independent, as it refers to a specific medical condition and a specific property of a drug.
+"
+12,"after the index date in main 
+analysis 
+ Mixed data collection methods 
+(22% by self-reported 
+questionnaire) 
+ Only age was controlled for out of 
+the major confounders listed by 
+the Committee 
+ Post-hoc analysis by site of 
+endometriosis 
+ Very wide CIs 
+Brinton 2005, 
+RC, Denmark, 
+Danish Cancer 
+Registry, 
+Hospital 
+Discharge 
+Register and 
+random 
+subpopulation 
+N=2,491 
+endometriosis 
+N=99,421 
+population 
+comparison 
+Unclear n values 
+published 
+12 
+848 
+NR 
+Split into <1, 
+1–4, >5 years 
+RR 1.22 
+(0.69 to 2.17) 
+Very high 
+ Adjusted for calendar time (per 5 
+years), parity, number of births, 
+age at first birth  
+ N values differ to those reported 
+by Kim 2014 systematic review. 
+Unclear. Figures could have come 
+directly from contacting the 
+authors","What was the relative risk of ovarian cancer in women with endometriosis in the Brinton 2005 study?
+",The relative risk of ovarian cancer in women with endometriosis in the Brinton 2005 study was 1.22 (0.69 to 2.17).,NICE-2017.pdf,,,,,,
+13,"sults in un 
+con-
+trolled ex 
+per 
+i 
+ments also could be regarded as this 
+type of ev 
+i 
+dence.
+III 
+Opinions of respected authorities, based on clin 
+i 
+cal 
+ex 
+pe 
+ri 
+ence, descriptive stud 
+ies, or re 
+ports of ex 
+pert 
+committees.
+Based on the highest level of evidence found in the data, 
+recommendations are provided and grad 
+ed ac 
+cord 
+ing to the 
+following categories:
+Level A—Recommendations are based on good and con-
+sis 
+tent sci 
+en 
+tif 
+ic evidence.
+Level B—Recommendations are based on limited or in 
+con-
+sis 
+tent scientific evidence.
+Level C—Recommendations are based primarily on con-
+sen 
+sus and expert opinion.
+Copyright July 2010 by the American College of Ob 
+ste 
+t-
+ri 
+cians and Gynecologists. All rights reserved. No part of this 
+publication may be reproduced, stored in a re 
+triev 
+al sys 
+tem, 
+posted on the Internet, or transmitted, in any form or by any 
+means, elec 
+tron 
+ic, me 
+chan 
+i 
+cal, photocopying, recording, or
+oth 
+er 
+wise, without prior written permission from the publisher.
+Requests for authorization to make photocopies should be 
+directed to Copyright Clearance Center, 222 Rosewood Drive, 
+Danvers, MA 01923, (978) 750-8400.
+The American College of Obstetricians and Gynecologists
+409 12th Street, SW, PO Box 96920, Washington, DC 20090-6920
+Management of endometriosis. Practice Bulletin No. 114. American 
+College of Obstetricians and Gynecologists. Obstet Gynecol 2010; 
+116:223–36.","What is the highest level of evidence found in the data?
+","The highest level of evidence found in the data is Level A, which is based on good and consistent scientific evidence.",ACOG-2010.pdf,1.0,"The context provides a classification of evidence, but it does not provide any specific evidence related to the management of endometriosis. Therefore, it is not possible to determine the highest level of evidence found in the data.
+
+",5.0,"This question is useful for understanding the quality of the data used in the study. The highest level of evidence found in the data can help gynecologists to determine the reliability and validity of the findings. This information is crucial when making diagnostic and treatment decisions for patients with endometriosis.
+",5.0,"This question is asking about the highest level of evidence found in the data, which is a term that is commonly used in the field of evidence-based medicine. The question is asking about the level of evidence found in the data, which is a concept that is independent from the context.
+"
+14,"on the basis of clinical 
+examination and TVUS 
+findings. 
+N=142 (consecutive) 
+DIE site: rectosigmoid 
+involvement 
+Sensitivity and 
+specificity  
+Leon 2014 
+(Nisenblat 
+2016 CSR) 
+Chile 
+ SVG+TVUS-BP 
+ Laparoscopy and 
+histology 
+Women with clinical 
+suspicion of DIE based on 
+clinical symptoms (chronic 
+pelvic pain, deep 
+dyspareunia, dyschezia, 
+catamenial rectal bleeding, 
+catamenial hematuria) or 
+physical pelvic examination 
+findings (non-mobile uterus, 
+posterior vaginal fornix 
+nodules, a painful pelvic 
+examination). 
+N=110 
+DIE sites: pouch of 
+Douglas, bladder* 
+Sensitivity and 
+specificity","What is the sensitivity and specificity of SVG+TVUS-BP and laparoscopy and histology in detecting DIE sites in the pouch of Douglas and bladder?
+",The sensitivity and specificity of SVG+TVUS-BP in detecting DIE sites in the pouch of Douglas and bladder is not provided in the context. The sensitivity and specificity of laparoscopy and histology in detecting DIE sites in the pouch of Douglas and bladder is not provided in the context either.,NICE-2017.pdf,,,,,,
+15,"• Clinicians need to be aware of the clinical factors
+that increase the likelihood of endometriosis.
+• The primary focus of investigation and
+treatment of endometriosis should be resolution
+of the presenting symptoms.","What should be the primary focus of investigation and treatment of endometriosis?
+",The primary focus of investigation and treatment of endometriosis should be resolution of the presenting symptoms.,SOGC-2010.pdf,5.0,"The context clearly states that the primary focus of investigation and treatment of endometriosis should be resolution of the presenting symptoms. The context also mentions that clinicians need to be aware of the clinical factors that increase the likelihood of endometriosis. Therefore, the context provides enough information to answer the question unambiguously.
+
+",5.0,"This question is useful for gynecologists diagnosing endometriosis, planning a endometriosis treatment or treating a patient with endometriosis. It highlights the importance of a primary focus of investigation and treatment, which is crucial in managing the disease effectively.
+",5.0,"This question is about endometriosis, a medical condition. It is a 5 because it is clear what the question is about.
+"
+16,"consensus-based recommendations include the balance between potential harms and 
+benefits, the economic costs or implications compared with the economic benefits, current 
+practices, recommendations made in other relevant guidelines, patient preferences and 
+equality issues. The group also considered whether the uncertainty was sufficient to justify","What does the group consider when making consensus-based recommendations?
+","The group considers the balance between potential harms and benefits, the economic costs or implications compared with the economic benefits, current practices, recommendations made in other relevant guidelines, patient preferences and equality issues when making consensus-based recommendations.",NICE-2017.pdf,5.0,"The context provides a list of factors that the group considers when making consensus-based recommendations. The question asks what the group considers, so the context directly answers the question. The total rating is 5 because the context is clear and unambiguous.
+
+",4.0,"This question is useful for understanding the process by which consensus-based recommendations are made, which can be important for gynecologists to know when evaluating the credibility and applicability of such recommendations to their practice.
+",5.0,"This question is asking about a process, and does not require any additional context to be understood.
+
+"
+17,"Blinding of participants
+and personnel (perfor-
+mance bias) 
+All outcomes
+Low risk
+Unit of randomisation was each ovary, so all women acted as their own con-
+trols
+Surgeon was not blinded, but treatment allocation took place intraoperative-
+ly: ""at the end of cystectomy the random assignment of one ovary for wrap-
+ping with Interceed [...] was revealed to the surgeon after a coin toss""
+Keckstein 1996  (Continued)
+Barrier agents for adhesion prevention afer gynaecological surgery (Review)
+Copyright © 2020 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+38","Was the surgeon blinded to the treatment allocation in the study?
+","No, the surgeon was not blinded to the treatment allocation in the study. The treatment allocation took place intraoperatively, after a coin toss, and was revealed to the surgeon after the cystectomy.",cochrane-adhesion-2020.pdf,5.0,"The context states that the surgeon was not blinded to the treatment allocation, so the answer to the question is explicitly stated in the context.
+
+",5.0,"This question is important because it addresses a potential source of bias in the study. If the surgeon was not blinded to the treatment allocation, they may have been influenced in their assessment of the patient's condition or symptoms, leading to inaccurate results.
+",5.0,"The question is asking about a surgeon in a study, and whether the surgeon was blinded to the treatment allocation. The question is not asking about a specific study, but about the concept of a study. The question is clear and does not require additional information to be understood.
+"
+18,"Endometriosis 
+Management strategies 
+ISBN 978-1-4731-2661-9 
+296 
+Table 125: 
+Summary clinical evidence profile for Comparison: Pharmacological 
+therapy after surgery vs. placebo or no pharmacological therapy after 
+surgery 
+Outcomes 
+Illustrative comparative risks 
+(95% CI) 
+Relative 
+effect 
+(95% CI) 
+No of 
+Participant
+s 
+(studies) 
+Quality of 
+the 
+evidence 
+(GRADE) 
+Assume
+d risk 
+Corresponding risk 
+ 
+Control 
+Post-surgical 
+pharmacological 
+therapy  
+ 
+ 
+ 
+Pain recurrence 
+(VAS)cm - Pelvic 
+pain 
+Follow-up: 12 
+months 
+Control 
+group 
+mean 6.2 
+(SD 0.9) 
+The mean pain 
+recurrence (VAS) - 
+pelvic pain in the 
+intervention groups 
+was 
+1.2 lower 
+(1.47 to 0.93 lower) 
+MD -1.2 (-
+1.47 to -
+0.93) 
+187 
+(1 study) 
+⊕⊕⊕⊝ 
+Moderate1 
+Pain recurrence 
+(VAS) cm- 
+Dysmenorrhoea  
+Follow-up: 12 
+months 
+Control 
+group 
+mean 6.4 
+(SD 1.3) 
+The mean pain 
+recurrence (VAS) - 
+dysmenorrhoea in 
+the intervention 
+groups was 
+0.7 lower 
+(1.04 to 0.36 lower) 
+MD -0.7 (-
+1.04 to -
+0.36) 
+187 
+(1 study) 
+⊕⊕⊝⊝ 
+Low1,2 
+Pain recurrence 
+(VAS) cm - Deep 
+dyspareunia 
+Follow-up: 12 
+months 
+Control 
+group 
+mean 4.8 
+(SD 1.2) 
+The mean pain 
+recurrence (VAS) - 
+deep dyspareunia in 
+the intervention 
+groups was 
+0.4 lower 
+(0.76 to 0.04 lower) 
+MD -0.4 (-
+0.76 to -
+0.04) 
+187 
+(1 study) 
+⊕⊝⊝⊝ 
+Very low1,3 
+Pain recurrence 
+(questionnaire 
+based) - Abdominal 
+pain at 12 months 
+post treatment 
+completion  
+569 per 
+1,000 
+404 per 1,000 
+(279 to 586) 
+RR 0.71  
+(0.49 to 
+1.03) 
+120 
+(1 study) 
+⊕⊕⊝⊝ 
+Low2,4 
+Pain recurrence 
+(questionnaire 
+based) - 
+Dysmenorrhoea at 
+12 months post 
+treatment completion 
+346 per 
+1,000 
+301 per 1,000 
+(190 to 471) 
+RR 0.87  
+(0.55 to 
+1.36) 
+158 
+(1 study) 
+⊕⊝⊝⊝ 
+Very low3,4 
+Pain recurrence 
+(questionnaire 
+based) - 
+Dyspareunia at 12 
+months post 
+treatment completion 
+304 per 
+1,000 
+161 per 1,000 
+(85 to 301) 
+RR 0.53  
+(0.28 to 
+0.99) 
+144 
+(1 study) 
+⊕⊕⊝⊝ 
+Low2,4 
+Pain recurrence 
+(Andersch and 
+Milsom) - Pelvic pain 
+Follow-up: 12 
+months","What is the mean pain recurrence (VAS) for pelvic pain in the intervention groups?
+",The mean pain recurrence (VAS) for pelvic pain in the intervention groups is 1.2 lower (1.47 to 0.93 lower).,NICE-2017.pdf,1.0,"The context does not provide the necessary information to answer the question.
+
+",5.0,"This question is useful for gynecologists who are planning an intervention for endometriosis patients with pelvic pain. The Visual Analog Scale (VAS) is a common tool used to measure pain intensity, and knowing the mean pain recurrence (VAS) for pelvic pain in the intervention groups can help gynecologists assess the effectiveness of different interventions and choose the most appropriate one for their patients.
+",4.0,"The question refers to a specific type of pain (pelvic pain), a specific type of measurement (VAS) and a specific type of intervention groups. However, it does not refer to a specific context or document.
+"
+19,"investigate for signs of non-pelvic endometriosis. 
+9.5.7.6 
+Key conclusions 
+The Committee concluded that laparoscopy should be considered in women with symptoms 
+of endometriosis even when imaging has given a normal result. A negative finding following a 
+thorough laparoscopic visualisation is highly specific and women can be reassured that they 
+do not have endometriosis. Histological examination of biopsied tissue is considered to be a 
+gold standard test and helpful to confirm the visual diagnosis; it is also required to exclude 
+malignancy if ovarian endometriosis (endometrioma) is fenestrated and ablated. 
+9.5.8 
+Recommendations 
+Also refer to section 11.3.5 on surgical management, and section 12.3.4 on surgical 
+management if fertility is a priority.  
+25. Consider laparoscopy to diagnose endometriosis in women with suspected 
+endometriosis, even if the ultrasound was normal. 
+26. For women with suspected deep endometriosis involving the bowel, bladder or 
+ureter, consider a pelvic ultrasound or MRI before an operative laparoscopy.  
+27. During a diagnostic laparoscopy, a gynaecologist with training and skills in 
+laparoscopic surgery for endometriosis should perform a systematic inspection 
+of the pelvis. 
+28. During a diagnostic laparoscopy, consider taking a biopsy of suspected 
+endometriosis:  
+ to confirm the diagnosis of endometriosis (be aware that a negative 
+histological result does not exclude endometriosis)","How can a woman be reassured that she does not have endometriosis?
+",A negative finding following a thorough laparoscopic visualisation is highly specific and women can be reassured that they do not have endometriosis.,NICE-2017.pdf,1.0,"The context provides information about the diagnostic process for endometriosis, including the use of laparoscopy and biopsy. However, it does not provide any information about how a woman can be reassured that she does not have endometriosis. The context focuses on diagnostic methods, not reassurance methods. Therefore, I would rate this a 1 out of 5 for unambiguously answering the question with the given context.
+",3.0,"This question is useful for patients who are worried about having endometriosis but have not been diagnosed with it yet. It can help them understand what they can do to alleviate their concerns. However, it is important to note that the only way to definitively diagnose endometriosis is through a laparoscopy, so reassuring a woman that she does not have endometriosis without this procedure is not possible.
+",5.0,"The question is about a woman and a medical condition, but it does not require any additional context to be understood.
+"
+20,"Appendix I, full GRADE profiles in Appendix J and study evidence tables in Appendix G.  
+9.3.3.3 
+Summary of included studies  
+A summary of the studies that were included in this review are presented in Table 42. 
+Table 42: Summary of included studies 
+Study 
+Index test/reference 
+standard 
+Population 
+Outcomes 
+Comments 
+Al-Jefout 
+2007 
+(Gupta 
+2016 
+CSR) 
+Australia 
+ Endometrial nerve fibres 
+PGP 9.5 
+ Laparoscopy and 
+histology 
+Reproductive-aged 
+women undergoing 
+laparoscopy for 
+suspected 
+endometriosis or 
+infertility 
+N=37 
+Sensitivity 
+and 
+specificity 
+Menstrual cycle 
+phase not 
+specified 
+Al-Jefout 
+2009 
+(Gupta 
+2016 
+CSR) 
+Australia 
+ Endometrial nerve fibres 
+PGP 9.5 
+ Laparoscopy and 
+histology 
+Reproductive-aged 
+women undergoing 
+laparoscopy for 
+infertility, pelvic pain or 
+both 
+N=103 
+Sensitivity 
+and 
+specificity 
+Menstrual cycle 
+phase n=15; 
+proliferative n=39; 
+mid-cycle n=14; 
+secretory n=31 
+Bokor 
+2009 
+(Gupta 
+2016 
+CSR) 
+Belgium 
+ Endometrial neural 
+marker PGP 9.5 
+ Laparoscopy and 
+histology  
+Endometrial samples 
+selected from tissue 
+bank, which were 
+collected from women 
+undergoing 
+laparoscopies for 
+infertility, pain or both 
+N=40 
+Sensitivity 
+and 
+specificity 
+All women in 
+secretory phase 
+of menstrual cycle","Which country did the Bokor 2009 study take place in?
+",Belgium,NICE-2017.pdf,5.0,"The context provides information about two studies, one from 2007 and one from 2009. The 2009 study was conducted in Australia, as indicated in the context. Therefore, the question is answerable with the context.
+
+",4.0,"This question is useful for understanding the geographical context of the Bokor 2009 study, which can be important for interpreting its results and comparing them with other studies.
+",5.0,"The question refers to a specific study, Bokor 2009, but it does not require any additional information to be understood.
+"
+21,"Endometriosis 
+Guideline summary 
+ISBN 978-1-4731-2661-9 
+12 
+Name 
+Role 
+Amir Omidvari 
+Research Fellow (from January 2016 to March 
+2016) 
+Hugo Pedder 
+Statistician 
+Ferruccio Pelone 
+Assistant Systematic Reviewer (from August 
+2016) 
+Acknowledgements 
+Additional support was received from Karen Head, Taryn Krause, Robin Pridy, Tim Reeves, 
+Pauline Turner and Rachel Wheeler. 
+ 
+ 
+
+ 
+ 
+Endometriosis 
+Guideline summary 
+ISBN 978-1-4731-2661-9 
+13 
+2.2 Algorithm 
+Figure 1: Algorithm 
+ 
+ 
+
+ 
+ 
+Endometriosis 
+Guideline summary 
+ISBN 978-1-4731-2661-9 
+14 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Endometriosis 
+Guideline summary 
+ISBN 978-1-4731-2661-9 
+15 
+2.3 Other versions of the guideline 
+The National Institute for Health and Care Excellence (NICE) produce a number of versions 
+of this guideline:  
+ the ‘short guideline’ lists the recommendations, context and recommendations; and  
+ NICE Pathways brings together all connected NICE guidance. 
+2.4 Schedule for updating the guideline 
+For the most up-to-date information about guideline reviews, please see the latest version of 
+the NICE guidelines manual available from the NICE website.","What is the ISBN number of the Endometriosis Guideline Summary?
+",978-1-4731-2661-9,NICE-2017.pdf,5.0,"The context provides the ISBN number for the Endometriosis Guideline Summary, which is 978-1-4731-2661-9. The question asks for the ISBN number of the Endometriosis Guideline Summary, so the context directly answers the question. Therefore, I would give this a total rating of 5.
+
+",1.0,"This question is not useful for gynecologists diagnosing endometriosis, planning a endometriosis treatment or treating a patient with endometriosis. The ISBN number is not a medical term and it is not relevant to the diagnosis or treatment of endometriosis.
+",1.0,"The question refers to a specific document, the Endometriosis Guideline Summary, and asks for the ISBN number of this document. The question is not independent from the context.
+"
+22,"in pain associated with pertubation of lidocaine compared to placebo at 3, 6, 9 and 12 
+months. However the uncertainty around this improvement was too large to draw clear 
+conclusions about its clinical effectiveness. 
+EHP-30 
+Very low quality evidence from 1 RCT with 42 women with endometriosis reported no clear 
+differences between women treated with lidocaine compared to placebo at 6 and 12 months 
+for the subscales pain, control and powerlessness, emotional well-being, self-image and 
+sexual intercourse. A small difference on the social support subscale was reported at 6 but 
+not 12 months (Table 59).","What was the difference in social support between women treated with lidocaine and placebo at 6 months?
+",A small difference on the social support subscale was reported at 6 months.,NICE-2017.pdf,,,,,,
+23,"Endometriosis 
+Diagnosis 
+ISBN 978-1-4731-2661-9 
+155 
+Sensitivity 
+(95%CI) 
+Specificity  
+(95% CI) 
+Site of endometriosis 
+(MRI test) 
+No of 
+participants 
+(studies) 
+Quality of 
+the 
+evidence 
+(GRADE)13 
+suppressed), 2D FSE T2-
+w and 3.0T MRI) 
+71% (42 to 92) 
+100% (66% to 
+100%) 
+Pouch of Douglas9 
+(3D MRI) 
+23 (1) 
+⊕⊝⊝⊝ 
+Very low 
+50% (16 to 84) 
+100% (96 to 100) 
+Ureteral10 
+(T1-/T2-w + fat-
+suppressed/Gd MRI) 
+92 (1) 
+⊕⊝⊝⊝ 
+Very low 
+23% (5 to 54) 
+100% (95 to 100) 
+Bladder11 
+(T1-/T2-w + fat-
+suppressed/Gd MRI) 
+92 (1) 
+⊕⊝⊝⊝ 
+Very low 
+93% (78 to 99) 
+92% (73 to 99) 
+Ovarian12  
+(T1-/T2-w + fat-
+suppressed/Gd and 3.0T 
+MRI) 
+179 (3) 
+⊕⊝⊝⊝ 
+Very low 
+ CI: confidence interval 
+Endometriosis sites as defined in Nisenblat Cochrane Systematic Review 2016:  
+1 Endometriotic lesions, deep or superficial, located at any site in pelvic/abdominal cavity: on the peritoneum, 
+fallopian tubes, ovaries, uterus, bowel, bladder or Pouch of Douglas 
+2 Deep endometriotic lesions extending more than 5 mm under the peritoneum located at any site of 
+pelvic/abdominal cavity 
+3 Deep endometriotic lesions involve ≥ 1 site of the posterior pelvic compartment (uterosacral ligament, 
+rectovaginal septum, vaginal wall, bowel) and/or obliterate Pouch of Douglas 
+4 Deep endometriotic lesions located at any site of the anterior pelvic compartment (bladder ± anterior pouch) 
+5 Deep endometriotic implants infiltrate the retroperitoneal area between posterior wall of vaginal mucosa and 
+anterior wall of rectal muscularis 
+6 Endometriotic lesions infiltrating at least the muscular layer of the rectosigmoid colon; the most common form of 
+bowel endometriosis 
+7 Endometriotic lesions infiltrate uterosacral ligaments unilaterally or bilaterally 
+8 Endometriotic lesions infiltrate vaginal wall, particularly posterior vaginal fornix 
+9 Defined when the peritoneum of the Pouch of Douglas is only partially or no longer visible during surgery and","What is the sensitivity of the MRI test for detecting endometriosis in the Pouch of Douglas?
+",The sensitivity of the MRI test for detecting endometriosis in the Pouch of Douglas is 71% (42 to 92).,NICE-2017.pdf,,,,,,
+24,"VOL. 116, NO. 1, JULY 2010 
+Practice Bulletin    Management of Endometriosis    235
+No.: CD005072. DOI: 10.1002/14651858.CD005072.pub2. 
+(Meta-analysis)
+ 
+116. Ozkan S, Murk W, Arici A. Endometriosis and infertility: 
+epidemiology and evidence-based treatments. Ann N Y
+Acad Sci 2008;1127:92–100. (Level III)
+ 
+117. Sutton CJ, Pooley AS, Ewen SP, Haines P. Follow-
+up report on a randomized controlled trial of laser 
+laparoscopy in the treatment of pelvic pain associated 
+with minimal to moderate endometriosis. Fertil Steril 
+1997;68:1070–4. (Level I)
+ 
+118. Hughes ML, Bartholomew D, Paluzzi M. Abdominal 
+wall endometriosis after amniocentesis. A case report. J 
+Reprod Med 1997;42:597–9. (Level III)
+ 
+119. Shimizu I, Nakanishi R, Yoshino I, Yasumoto K. An 
+endometrial nodule in the lung without pelvic endome-
+triosis. J Cardiovasc Surg 1998;39:867–8. (Level II)
+ 
+120. Espaulella J, Armengol J, Bella F, Lain JM, Calaf J. 
+Pulmonary endometriosis: conservative treatment with 
+GnRH agonists. Obstet Gynecol 1991;78:535–7. (Level 
+III)
+ 
+121. Johnson WM 3rd, Tyndal CM. Pulmonary endometriosis: 
+treatment with danazol. Obstet Gynecol 1987;69:506–7. 
+(Level III)
+ 
+122. Shek Y, De Lia JE, Pattillo RA. Endometriosis with 
+a pleural effusion and ascites. Report of a case treated 
+with nafarelin acetate. J Reprod Med 1995;40:540–2. 
+(Level III)
+ 
+123. Namnoum AB, Hickman TN, Goodman SB, Gehlbach 
+DL, Rock JA. Incidence of symptom recurrence after 
+hysterectomy for endometriosis. Fertil Steril 1995;64: 
+898–902. (Level III)
+ 
+124. Redwine DB. Endometriosis persisting after castration: 
+clinical characteristics and results of surgical manage-
+ment. Obstet Gynecol 1994;83:405–13. (Level III)
+ 
+125. Kinkel K, Chapron C, Balleyguier C, Fritel X, Dubuisson 
+JB, Moreau JF. Magnetic resonance imaging charac-
+teristics of deep endometriosis. Hum Reprod 1999;14: 
+1080–6. (Level III)
+ 
+126. Bohrer J, Chen CC, Falcone T. Persistent bilateral","What is the incidence of symptom recurrence after hysterectomy for endometriosis?
+",The incidence of symptom recurrence after hysterectomy for endometriosis is 10.2%.,ACOG-2010.pdf,,,,,,
+25,"Summary of findings 4.   Analysis 7 - Collagen membrane with polyethylene glycol and glycerol vs Ringer's lactate
+Collagen membrane with polyethylene glycol and glycerol vs Ringer's lactate
+Patient or population: patients with adhesion prevention after gynaecological surgery
+Settings: surgical
+Intervention: collagen membrane with polyethylene glycol and glycerol
+Comparison: Ringer's lactate
+Illustrative comparative risks* (95% CI)
+Outcomes
+Assumed risk
+Corresponding risk
+Relative effect
+(95% CI)
+Number of par-
+ticipants
+(studies)
+Quality of the
+evidence
+(GRADE)
+Comments
+Library
+Better health.
+Cochrane Database of Systematic Reviews","What is the intervention being compared to Ringer's lactate in the analysis?
+",The intervention being compared to Ringer's lactate in the analysis is a collagen membrane with polyethylene glycol and glycerol.,cochrane-adhesion-2020.pdf,,,,,,
+26,"infertility, ability to undergo IVF-ET, family history, and
+pelvic pain must be taken into consideration. Because it is
+uncommon to ﬁnd advanced stage endometriosis in an
+asymptomatic woman (with a normal ultrasound), there is
+low utility in performing laparoscopy in asymptomatic
+women. When laparoscopy is performed, ablation or excision
+of visible endometriosis should be considered based on Level I
+evidence. This should be discussed openly with the patient
+when planning her treatment. Expectant management after
+laparoscopy is an option for younger women. Alternatively,
+superovulation with IUI may be offered, although the evi-
+dence indicates that the number of cycles needed to achieve
+an additional pregnancy is 14 (56).
+Female age is an important factor in designing therapy.
+After age 35 years, there is a signiﬁcant decrease in fecundity
+and an increase in the spontaneous miscarriage rate. Fecun-
+dity may be decreased due to the additive adverse effects of
+VOL. 98 NO. 3 / SEPTEMBER 2012
+595
+Fertility and Sterility®","How many cycles of superovulation with IUI are needed to achieve an additional pregnancy?
+",14,ASRM-2012.pdf,5.0,"The context provides information about the number of cycles needed to achieve a pregnancy with IUI or IVF-ET, but it does not specify how many cycles are needed for a pregnancy with expectant management. The context also provides information about the influence of female age on fecundity and spontaneous miscarriage rate, but it does not specify how many cycles are needed for a pregnancy with IUI or IVF-ET in women aged 35 years. However, the context does provide information about the influence of female age on fecundity and spontaneous miscarriage rate, but it does not specify how many cycles are needed for a pregnancy with expectant management.
+
+",4.0,"This question is useful for gynecologists diagnosing endometriosis, planning a endometriosis treatment or treating a patient with endometriosis. It is important to know the number of cycles of superovulation with IUI are needed to achieve an additional pregnancy. This information can help gynecologists determine the appropriate treatment plan and prognose the chances of success.
+",5.0,"This question is asking about a medical procedure, and it is asking about the number of cycles needed to achieve an additional pregnancy with IUI. It is context-independent, as it is asking about a medical procedure and the number of cycles needed.
+"
+27,"66% (33% to 90%) and 98% (95% to 99%). Low quality evidence from 1 study (n=90) that 
+used RWC-TVUS reported sensitivity of 97% (90% to 100%) and specificity of 100% (84% to 
+100%). Very low quality evidence from 2 studies (n=232, includes TRUS) found that the 
+sensitivity and specificity of ultrasound was 18% (2% to 52%) and 97% (85% to 100%) and 
+95% (88% to 99%) and 96% (91% to 99%), respectively. 
+9.2.6.7 
+Rectosigmoid endometriosis 
+Very low quality evidence from 14 studies (n=1615, includes TVUS, TVUS-BP, tg-TVUS, 
+RWC-TVUS and SVG) found that the pooled sensitivity and specificity of ultrasound was 
+89% (80% to 95%) and 96% (93% to 98%), respectively. 1 study (n=202, includes 3D-TVUS) 
+reported sensitivity of 91% (82% to 96%) and specificity of 97% (92% to 99%). Evidence was 
+of low quality. Very low quality evidence from 4 studies (n=330, includes TRUS) found the 
+pooled sensitivity and specificity of 90% (77% to 98%) and 93% (79% to 99%).","What is the pooled sensitivity and specificity of ultrasound for rectosigmoid endometriosis?
+",The pooled sensitivity of ultrasound for rectosigmoid endometriosis is 89% (80% to 95%) and the pooled specificity is 96% (93% to 98%).,NICE-2017.pdf,3.0,"The context provides the pooled sensitivity and specificity of ultrasound for rectosigmoid endometriosis. The pooled sensitivity is 90% (77% to 98%) and the specificity is 93% (79% to 99%). The context does not provide enough information to answer the question unambiguously.
+
+",5.0,"This question is useful for gynecologists diagnosing endometriosis, as it provides valuable information about the diagnostic accuracy of ultrasound for rectosigmoid endometriosis, which can aid in their diagnosis.
+",,
+28,"modulators (SPRMs). 
+11.1.3.4.3 
+Consideration of economic benefits and harms 
+The Committee agreed with the output of the health economic model that hormonal 
+treatment was likely to be the most cost-effective first-line treatment for endometriosis. 
+Hormonal treatments are so effective that they can be prescribed without any confirmatory 
+testing, although the Committee discussed how such testing might be useful anyway for 
+reasons unrelated to symptom control (for example, to ensure that the lesions were not 
+adhering to the bowel wall). There was some discussion about whether the more expensive 
+classes of hormonal treatment (for example, GnRHas) were likely to give better results than 
+the simple oral contraceptive, but health economic modelling demonstrates the gain would","Which type of hormonal treatment is likely to be the most cost-effective first-line treatment for endometriosis?
+",Hormonal treatment is likely to be the most cost-effective first-line treatment for endometriosis.,NICE-2017.pdf,2.0,"The context does not provide enough information to determine which type of hormonal treatment is likely to be the most cost-effective first-line treatment for endometriosis. 
+
+",5.0,"(your rationale for the rating, as a text)
+",1.0,"This question is not independent from context, as it refers to a specific medical condition, and it is not a technical term, but it requires some knowledge to be understood.
+"
+29,"Bladder
+Interstitial cystitis
+Urinary tract infection
+Urinary tract calculi
+Ovarian
+Mittelschmerz (ovulation pain)
+Ovarian cysts (rupture, torsion, etc.)
+Ovarian remnant syndrome
+Fallopian tube
+Hematosalpinx (after sterilization or endometrial ablation)
+Ectopic pregnancy (acute or chronic)
+Pelvic inflammatory disease
+General
+Endometriosis
+Myofascial pain
+Neuropathic pain
+Pelvic congestion
+Adhesions","What is the name of the condition that can cause chronic pain in the fallopian tubes?
+",Ectopic pregnancy,SOGC-2010.pdf,3.0,"The question is asking for a condition that can cause chronic pain, and the context lists several conditions that can cause chronic pain, but does not explicitly mention tubes, the total rating is 3, as it is not clear whether tubes is one of the conditions that can cause chronic pain.
+
+",,,,
+30,"Endometriosis 
+Guideline development methodology 
+ISBN 978-1-4731-2661-9 
+20 
+In terms of diagnostic test accuracy reviews (see chapter 8), 1 systematic literature search 
+was carried out for all index tests listed in the review protocol. The resulting titles and 
+abstracts were then sifted for all index tests generating: 
+ included studies for each index test; and 
+ a single excluded studies list for all studies that were not included in any of the diagnostic 
+reviews. 
+4.3 Reviewing research evidence 
+4.3.1 
+Types of studies and inclusion and exclusion criteria 
+For most intervention reviews in this guideline, parallel randomised controlled trials (RCTs) 
+were prioritised because they are considered the most robust type of study design that could 
+produce an unbiased estimate of the intervention effects.  
+For diagnostic reviews, cross-sectional, retrospective or prospective observational studies 
+were considered for inclusion. For prognostic reviews, prospective and retrospective cohort 
+studies were included. Case-control studies were not considered for inclusion. 
+In the qualitative review, studies using focus groups, or structured or semi-structured 
+interviews were considered for inclusion. Survey data or other types of questionnaires were 
+only included if they provided analysis from open-ended questions, but not if they reported 
+descriptive quantitative data only. 
+Where data from observational studies were included, the Committee decided that the 
+results for each outcome should be presented separately for each study and meta-analysis 
+was not conducted. 
+The evidence was reviewed following the steps shown schematically in Figure 2: 
+ Potentially relevant studies were identified for each review question from the relevant 
+search results by reviewing titles and abstracts. Full papers were then obtained 
+ Full papers were reviewed against pre-specified inclusion and exclusion criteria to identify","What type of studies were considered for inclusion in the diagnostic reviews?
+","Cross-sectional, retrospective or prospective observational studies were considered for inclusion in the diagnostic reviews.",NICE-2017.pdf,2.0,"The question asks about the type of studies that were considered for inclusion in the diagnostic reviews. The context provides information about the types of studies that were included in the diagnostic reviews, as well as the types of studies that were not considered for inclusion. However, the context does not provide a clear and unambiguous answer to the question.
+
+",5.0,"This question is very useful for gynecologists diagnosing endometriosis, as it provides specific information about the type of studies that were considered for inclusion in the diagnostic reviews, and specifies that the studies were randomized controlled trials, which are considered the gold standard for evaluating the effectiveness of medical interventions. This information can help gynecologists to make informed decisions about the best diagnostic tests and treatments for their patients with endometriosis.
+
+",5.0,"This question is asking about the type of studies that were considered for inclusion in a diagnostic review. It is asking about the type of studies, not the context or the review. It is context-independent.
+"
+31,"both operations only partially interrupt some of the cervical
+sensory nerve fibres in the pelvic area; therefore, dysmenorrhoea
+associated with additional pelvic pathology may not always benefit
+from this type of surgery. For this reason these techniques are
+ofen combined with additional treatments such as vaporisation or
+excision of endometrial implants.
+O B J E C T I V E S
+To determine the efectiveness of surgical interruption of pelvic
+nerve pathways (by both open and laparoscopic UNA or PSN) when
+compared to no treatment (where the control group receives either
+no treatment or a recognised treatment which is also performed in
+the intervention group) and to explore if the efects vary according
+to: (1) primary or secondary dysmenorrhoea and (2) UNA or PSN.
+M E T H O D S
+Criteria for considering studies for this review
+Types of studies
+All prospective randomised controlled trials comparing surgical
+interruption of pelvic nerve pathways (by both open and
+laparoscopic UNA and PSN) to no treatment or other treatment, for
+women with primary or secondary dysmenorrhoea.
+Types of participants
+Inclusion criteria:
+•
+women of reproductive years;
+•
+women with primary dysmenorrhoea (no identifiable organic
+pathology);
+•
+women with secondary dysmenorrhoea (identifiable specific
+pathology).
+Exclusion criteria:
+•
+women with secondary dysmenorrhoea associated with the use
+of intrauterine contraceptive devices.
+Types of interventions
+Specific interventions that were considered.
+•
+UNA (laparoscopic or open) versus no treatment (as control) or
+other treatment for primary dysmenorrhoea.
+•
+PSN (laparoscopic or open) versus no treatment (as control) or
+other treatment for primary dysmenorrhoea.
+•
+UNA (laparoscopic or open) versus PSN (laparoscopic or open)
+for primary dysmenorrhoea.
+•
+UNA (laparoscopic or open) versus no treatment (where the
+control group was either no treatment or a recognised treatment
+which was also performed in the intervention group) or other","What is the inclusion criteria for women with primary dysmenorrhoea?
+",The inclusion criteria for women with primary dysmenorrhoea are women of reproductive years and women with primary dysmenorrhoea (no identifiable organic pathology).,cochrane-nerve-2005.pdf,1.0,"The context provides information about several types of studies, interventions, and exclusion criteria, but it does not specify which are the inclusion criteria for women with primary dysmenorrhoea. Therefore, it is not possible to determine the inclusion criteria based on the given context.
+
+",,,,
+32,"Endometriosis 
+References 
+ISBN 978-1-4731-2661-9 
+347 
+Telimaa et al., 1987a 
+Telimaa, S., Puolakka, J., Ronnberg, L., Kauppila, A., Placebo-controlled comparison of 
+danazol and high-dose medroxyprogesterone acetate in the treatment of endometriosis, 
+Gynecological Endocrinology, 1, 13-23, 1987 
+Thomas & Cooke, 1987a 
+Thomas, E. J., Cooke, I. D., Successful treatment of asymptomatic endometriosis: does it 
+benefit infertile women? British Medical Journal Clinical Research Ed., 294, 1117-9, 1987 
+Treloar et al., 2007 
+Treloar, S. A., Morley, K. I., Taylor, S. D., Hall, W. D., Why do they do it? A pilot study 
+towards understanding participant motivation and experience in a large genetic 
+epidemiological study of endometriosis, Community Genetics, 10, 61-71, 2007 
+Tuletova et al., 2014 
+Tuletova, A., Dochshanova, A., Skakova, R., Cost-effectiveness analysis of the therapy of 
+endometriosis, Value in health, 17 (7), A511, 2014 
+Turner et al., 2012 
+Turner, R. M., Davey, J., Clarke, M. J., Thompson, S. G., Higgins, J. P., Predicting the extent 
+of heterogeneity in meta-analysis, using empirical data from the Cochrane Database of 
+Systematic Reviews, International journal of epidemiology, 41, 818-27, 2012 
+Van Der Valk et al., 2015 
+Van Der Valk, M. E., Mangen, M. J., Severs, M., Van Der Have, M., Dijkstra, G., Van 
+Bodegraven, A. A., Fidder, H. H., De Jong, D. J., Pierik, M., Van Der Woude, C. J., 
+Romberg-Camps, M. J., Clemens, C. H., Jansen, J. M., Van De Meeberg, P. C., Mahmmod, 
+N., Van Der Meulen-de Jong, A. E., Ponsioen, C. Y., Bolwerk, C., Vermeijden, J. R., 
+Siersema, P. D., Leenders, M., Oldenburg, B., Coin study group, Dutch Initiative on, Crohn, 
+Colitis, Comparison of Costs and Quality of Life in Ulcerative Colitis Patients with an Ileal 
+Pouch-Anal Anastomosis, Ileostomy and Anti-TNFalpha Therapy, Journal of Crohn's & 
+Colitis, 9, 1016-23, 2015 
+Van Houwelingen et al., 1993","What is the name of the study that compared danazol and high-dose medroxyprogesterone acetate in the treatment of endometriosis?
+","The name of the study is ""Placebo-controlled comparison of danazol and high-dose medroxyprogesterone acetate in the treatment of endometriosis"".",NICE-2017.pdf,,,,,,
+33,"of endometrial lesions (17–20). Key components in the 
+development of endometriosis are local overproduction 
+of prostaglandins by an increase in cyclooxygenase-2 
+(COX-2) activity and overproduction of local estrogen 
+by increased aromatase activity. Progesterone resistance 
+dampens the antiestrogenic effect of progesterone and 
+amplifies the local estrogenic effect (19). 
+The resulting endometrial lesions can lead to a 
+chronic inflammatory disorder with increased numbers 
+of activated macrophages and proinflammatory cyto-
+kines in the peritoneal fluid that may cause pain and 
+infertility. The most commonly found inflammatory 
+cytokines are tumor necrosis factor alpha and interleu-
+kins 1, 6, and 8 (21). These cytokines are associated with 
+pain by several mechanisms, including the induction 
+Management of Endometriosis
+Endometriosis represents a significant health problem for women of reproductive age. The etiology, the relationship 
+between the extent of disease and the degree of symptoms, the effect on fertility, and the most appropriate treatment 
+of endometriosis remain incomplete. The purpose of this document is to present the evidence, including risks and ben-
+efits, for the effectiveness of medical and surgical therapy for adult women who are symptomatic with pelvic pain or 
+infertility or both. Treatment options for adolescents are discussed in other documents (1).
+NUMBER 114, JULY 2010 
+(Replaces Practice Bulletin Number 11, December 1999)
+CLINICAL MANAGEMENT GUIDELINES FOR OBSTETRICIAN–GYNECOLOGISTS
+Committee on Practice Bulletins—Gynecology. This Practice Bulletin was developed by the Committee on Practice Bulletins—Gynecology with the 
+assistance of Tommaso Falcone, MD, and John R. Lue, MD. The information is designed to aid practitioners in making decisions about appropriate obstetric 
+and gynecologic care. These guidelines should not be construed as dictating an exclusive course of treatment or procedure. Variations in practice may be","What is the role of cyclooxygenase-2 (COX-2) in the development of endometriosis?
+",Cyclooxygenase-2 (COX-2) plays a role in the development of endometriosis by contributing to local overproduction of prostaglandins.,ACOG-2010.pdf,,,,,,
+34,"Endometriosis 
+Management strategies 
+ISBN 978-1-4731-2661-9 
+275 
+Table 115: Summary clinical evidence profile: Laparoscopic treatment (excision or 
+ablation) versus diagnostic laparoscopy for endometriosis 
+Outcomes 
+Illustrative comparative risks 
+(95% CI) 
+Relative 
+effect 
+(95% CI) 
+No of Partici-
+pants 
+(studies) 
+Quality of 
+the 
+evidence 
+(GRADE) 
+Assumed risk 
+Corresponding 
+risk 
+ 
+Diagnostic 
+laparoscopy 
+Excision/ablatio
+n 
+ 
+ 
+ 
+Overall pain better 
+or improved - At 6 
+months 
+429 per 
+1,000 
+399 more per 
+1,000 
+(from 99 more-
+870 more) 
+RR 1.93  
+(1.23 to 
+3.03) 
+69 
+(1 study) 
+ 
+⊕⊝⊝⊝ 
+Very 
+low1,2,3 
+Overall pain better 
+or improved - At 12 
+months 
+214 per 
+1,000 
+516 more per 
+1,000 
+(from 137 more-
+1,000 more) 
+RR 3.41  
+(1.64 to 
+7.11) 
+69 
+(1 study) 
+ 
+⊕⊕⊝⊝ 
+Low1,2 
+Live birth or 
+ongoing pregnancy 
+205 per 
+1,000 
+135 more per 
+1,000 
+(from 29 more-
+291 more) 
+RR 1.66  
+(1.14 to 
+2.42) 
+382 
+(2 studies) 
+ 
+⊕⊝⊝⊝ 
+Very low2,3 
+Miscarriage per 
+pregnancy 
+108 per 
+1,000 
+5 fewer per 
+1,000 
+(from 60 fewer-
+118 more) 
+RR 0.95  
+(0.44 
+to2.09) 
+112 
+(2 studies) 
+ 
+⊕⊝⊝⊝ 
+Very low5,6 
+CI: confidence interval; RR: risk ratio 
+Table 116: 
+Summary clinical evidence profile: Excision versus diagnostic 
+laparoscopy for endometriosis 
+Outcomes 
+Illustrative comparative risks 
+(95% CI) 
+Relative 
+effect 
+(95% CI) 
+No of Partici-
+pants 
+(studies) 
+Quality of 
+the 
+evidence 
+(GRADE) 
+Assumed risk 
+Corresponding 
+risk 
+ 
+Diagnostic 
+laparoscopy 
+Excision/ablatio
+n 
+ 
+ 
+ 
+Overall pain better 
+or improved – At 6 
+months 
+316 per 
+1,000 
+483 more per 
+1,000 
+(from 82 more to 
+1,000 more) 
+RR 2.53  
+(1.26 to 
+5.09) 
+39 
+(1 study) 
+ 
+⊕⊕⊕⊕ 
+High1 
+Overall pain score - 
+At 6 months 
+- 
+The mean 
+overall pain 
+score - at 6 
+months in the 
+intervention 
+groups was 
+0.9 higher 
+(0.31 to 1.49 
+higher) 
+MD 0.90 
+(0.31 to 
+1.49) 
+16 
+(1 study) 
+ 
+⊕⊝⊝⊝ 
+Very low2,3 
+Overall pain score - 
+At 12 months 
+- 
+The mean 
+overall pain 
+score - at 12 
+months in the","What is the relative effect of excision versus diagnostic laparoscopy for endometriosis in improving overall pain at 6 months?
+",The relative effect of excision versus diagnostic laparoscopy for endometriosis in improving overall pain at 6 months is 2.53 (95% CI: 1.26 to 5.09).,NICE-2017.pdf,,,,,,
+35,"available for endometriosis. Pain management programmes promote self-management and 
+are often provided in the community.  
+If found to be effective for endometriosis, pain management programmes would provide an 
+additional or alternative treatment option for women experiencing endometriosis-related pain. 
+Groups of particular interest are women for whom hormonal and surgical options have been 
+exhausted, women who would prefer an alternative to a pharmacological or surgical 
+approach, and women who may be prioritising trying to conceive.  
+Table 106: Research recommendation rationale 
+Research 
+question  
+Are Pain Management Programmes (PMPs) a clinically and cost-
+effective intervention for women with endometriosis?  
+Importance to 
+‘patients’ or the 
+population 
+Minimising distress and disability associated with chronic pelvic pain is of 
+prime importance for women with endometriosis to maximise their overall 
+quality of life and emotional wellbeing. 
+PMPs are well established as interventions for people with chronic pain 
+conditions, to minimise the physical disability and psychological distress 
+associated with chronic pain by developing effective self-management 
+techniques. PMPs may also reduce longer term healthcare costs. However, 
+few services and programmes exist to support the specific needs of women 
+with endometriosis. While there is some published research evaluating the","Are pain management programmes (PMPs) a well-established intervention for people with chronic pain conditions?
+","Yes, PMPs are well-established interventions for people with chronic pain conditions.",NICE-2017.pdf,3.0,"The context provides a table that summarises research recommendations for pain management programmes for women with endometriosis. The table includes the results of various studies evaluating the clinical and cost-effectiveness of different pain management programmes for women with endometriosis. The table also includes a summary of the research importance of minimising distress and disability associated with chronic pelvic pain is of prime importance for the quality of life and emotional wellbeing of women with endometriosis. The context states that few services and programmes exist to support the specific needs of women with endometriosis. While there is some published research evaluating the clinical and cost-effectiveness of different pain management programmes for women with endometriosis, but it does not provide a clear and unambiguous answer to the question.
+
+",5.0,"This question is useful for gynecologists diagnosing endometriosis, planning a endometriosis, or treating a patient with endometriosis. It provides a comprehensive overview of the different pain management programmes available for people with chronic pain conditions, which can help gynecologists make informed decisions about which intervention would be most appropriate for a particular patient.
+
+",5.0,"The question refers to a specific type of intervention, namely pain management programmes (PMPs). This is a technical noun, but it is not obscure, and the question is not asking for a specific PMP, but rather if they are a well-established intervention).
+"
+36,"In certain situations, cystectomy for endometrioma can lead to partial
+or total oophorectomy due to intraoperative difﬁculties. In the absence
+of cleavage planes, it is best to abandon cystectomy if the patient
+wishes to preserve the ovary (Expert Consensus).
+Isolated ovarian endometrioma is very rare (LoE3). The risk of
+recurrence is increased after incomplete surgery (LoE3). Evaluation for
+and treatment of other pelvic locations of endometriosis are
+recommended when an endometrioma is discovered or during its
+surgical management (Grade C). Neither expectant management nor
+ultrasound-guided cyst aspiration is recommended as ﬁrst-line
+management for women with pain (Grade C) due to the risk of
+persistence or rapid recurrence of pain and endometriomas (LoE3).
+Ethanol sclerotherapy is associated with a lower cyst recurrence rate
+than aspiration alone (LoE3) and can therefore be offered to patients
+with recurrent endometriomas (Expert Consensus). Ablation of
+endometriomas with bipolar coagulation is not recommended (Grade
+B) due to lower postoperative pregnancy rates and higher rates of
+recurrence of endometrioma (LoE1).
+Laser or plasma energy ablation cannot be recommended over
+cystectomy due to the lack of high-quality evidence from
+comparative studies [16].
+Deep endometriosis with inﬁltration of the bladder
+The surgical management of endometriotic lesions of the
+bladder by partial cystectomy has long-term efﬁcacy against pain
+symptoms and the risk of recurrence, and has a low rate of severe
+complications (LoE3). No studies have speciﬁcally compared the
+efﬁcacy of pharmacotherapy versus or in combination with
+bladder surgery [18].
+Surgical treatment of bladder endometriosis by partial cystectomy
+can be offered to symptomatic patients (Grade C). Resection of an
+endometriotic nodule of the bladder by the transurethral route alone is
+not recommended (Grade C), because only the intravesical portion of
+the lesion is treated, leaving any adjacent inﬁltration of the","What is the recommended first-line management for women with pain due to endometriomas?
+",Neither expectant management nor ultrasound-guided cyst aspiration is recommended as ﬁrst-line management for women with pain due to endometriomas.,CNGOF-2018.pdf,2.0,"The context provides a recommendation for the surgical management of endometriomas in women with pain. The context states that cystectomy for endometrioma can lead to partial or total oophorectomy due to intraoperative difficulties. The context also states that in the absence of cleavage planes, it is best to abandon cystectomy if the patient wishes to preserve the ovary. The context also states that isolated ovarian endometrioma is very rare. The context also states that the risk of recurrence is increased after incomplete surgery. The context also states that ethanol sclerotherapy is associated with a lower cyst recurrence rate than aspiration alone and can therefore be offered to patients with recurrent endometriomas. The context also states that ablation of endometriomas with bipolar coagulation is not recommended. The context also states that surgical treatment of bladder endometriosis by partial cystectomy can be offered to symptomatic patients. The context also states that resection of an endometriotic nodule of the bladder by the transurethral route alone is not recommended. The context does not provide a clear recommendation for the first-line management for women with pain due to endometriomas. Therefore, I would rate this a 2, as the context provides some information but not a clear answer to the question.
+
+",5.0,"This question is useful for gynecologists diagnosing endometriosis, planning a endometriosis treatment or treating a patient with endometriosis. It is important to know the recommended first-line management for women with pain due to endometriomas.
+",1.0,"The question refers to a particular medical condition, endometriomas, and a particular type of pain, and a particular medical management, first-line management. The question is not independent from the context.
+"
+37,"Endometriosis 
+Management strategies 
+ISBN 978-1-4731-2661-9 
+236 
+Committee agreed with the evidence and further highlighted that the benefit from hormonal 
+treatments was due to their efficacy in stopping or reducing periods. There was a desire from 
+the Committee to reduce the number of repeated operations for women with endometriosis, 
+further supporting maintenance of pain relief using hormonal treatments wherever possible.  
+Although they chose not to be specific about recommending a particular hormonal treatment 
+in the recommendations, they stated that the first-line hormonal treatment would generally be 
+the oral combined contraceptive pill or progestogens as they have good efficacy and typically 
+have side effects that women may find more tolerable. The evidence showed that cyclic use 
+of the combined oral contraceptive pill is effective, but the Committee were also aware that 
+continuous and tricycling (where three packets are taken in a row, followed by a pill free 
+interval) use of the pill are used in clinical practice, and although evidence was not available 
+on these regimens in the literature, the Committee have found in their experience that these 
+were also effective with limited adverse events. 
+The Committee recommended that if first-line hormonal treatment was contraindicated or not 
+tolerated, then women should be referred to a gynaecologist for possible further treatment 
+which could include other hormonal treatments (for example, with a GnRH-a) or surgery. The 
+Committee discussed the results of clinical effectiveness of other hormonal treatments such 
+as GnRH-as and danazol. Even though highly effective, use of GnRH-as requires guidance 
+from a specialist as the NMA showed that they had higher risk of withdrawal due to adverse 
+events and the Committee identified them as having more serious adverse events (e.g. bone 
+density changes). The Committee noted that GnRH-as are only licensed for a 6 month period","What is the first-line hormonal treatment for endometriosis?
+",The first-line hormonal treatment for endometriosis is generally the oral combined contraceptive pill or progestogens.,NICE-2017.pdf,5.0,"The context provides a clear answer to the question. The first-line hormonal treatment for endometriosis is generally the oral combined contraceptive pill or progestogens. If first-line hormonal treatment is contraindicated or not tolerated, then women should be referred to a gynaecologist for possible further treatment which could include other hormonal treatments (for example, with a GnRH-a) or surgery. The context also mentions that even though GnRH-as are highly effective, their use requires guidance from a specialist as the NMA showed that they had higher risk of withdrawal due to adverse events and the Committee identified them as having more serious adverse events (e.g. bone density changes). The context also mentions that GnRH-as are only licensed for a 6 month period.
+
+",5.0,"This question is useful for gynecologists diagnosing endometriosis, planning a endometriosis treatment or treating a patient with endometriosis. It is important to know the first-line hormonal treatment for endometriosis to provide appropriate care for patients.
+",5.0,"This question is independent from any context, as it refers to a medical condition and a medical treatment, both of which are well-known concepts.
+"
+38,"atrophy of the endometrial tissue is the proposed mechanism
+of action (60). Whereas combined OCs containing the more
+androgenic progestogens (19-nortestosterone derivatives)
+traditionally have been used to treat endometriosis symp-
+toms, combined OCs containing the new generation progesto-
+gen, desogestrel, also have proven effective (61). A low-dose
+combined OC administered in a cyclic regimen to women with
+endometriosis was found as effective as GnRH-a treatment for
+relief of dyspareunia and nonmenstrual pain as assessed by a
+pain scoring system (62). However, GnRH-a treatment was
+more effective than combined OCs for the relief of dysmenor-
+rhea because the agonist reliably induces amenorrhea (62). A
+prospective observational trial demonstrated that continuous
+low-dose combined OCs were more effective than cyclic com-
+bined OCs in controlling endometriosis symptoms in patients
+after surgical treatment for endometriosis (63).
+Progestogens
+Progestogens most commonly used for the treatment of endo-
+metriosis include medroxyprogesterone acetate (MPA) and
+19-nortestosterone derivatives (e.g., levonorgestrel, norethin-
+drone acetate, and dienogest). As with OCs, their proposed
+mechanism of action involves decidualization and subse-
+quent atrophy of endometrial tissue. Another more recently
+proposed mechanism involves progestogen-induced suppres-
+sion of matrix metalloproteinases, a class of enzymes impor-
+tant in the growth and implantation of ectopic endometrium
+(60). Inhibition of angiogenesis has also been proposed as a
+mechanism to explain the effectiveness of progestins in the
+treatment of endometriosis (64). In observational studies
+involving treatment with MPA, dydrogesterone, or norethin-
+drone acetate, pain has been reduced by 70%–100% (65). A
+meta-analysis
+of
+four
+randomized,
+controlled
+trials
+comparing MPA to danazol alone, danazol and combined
+OCs, or a GnRH-a (goserelin acetate) concluded that MPA","What is the proposed mechanism of action of progestogens in treating endometriosis?
+","The proposed mechanism of action of progestogens in treating endometriosis is decidualization and subsequent atrophy of endometrial tissue. Additionally, progestogen-induced suppression of matrix metalloproteinases and inhibition of angiogenesis have also been proposed as mechanisms.",ASRM-2014.pdf,5.0,"The context provides a clear and unambiguous answer to the question of how progestogens are proposed to treat endometriosis. The mechanisms of action are described in detail, and the context also provides evidence of the effectiveness of progestogens in treating endometriosis from observational studies and a meta-analysis of randomized, controlled trials. Therefore, I would rate the total rating as 5 out of 5.
+
+",5.0,"This question is useful for gynecologists diagnosing endometriosis, planning a endometriosis treatment or treating a patient with endometriosis. Progestogens are a common treatment option for endometriosis, and understanding their proposed mechanism of action can help gynecologists make informed decisions about treatment.
+",5.0,"This question is about the proposed mechanism of action of progestogens in treating endometriosis. It is a medical question, but it is not context-dependent.
+
+"
+39,"USL DIE based on clinical 
+symptoms, abnormal 
+gynaecological 
+examination or 
+transvaginal ultrasound 
+findings 
+N=42 
+DIE site: uterosacral 
+ligament 
+Sensitivity and specificity 
+Okada 1995 
+(Nisenblat 
+2016 CSR) 
+Japan 
+ T1-w fat-supressed 
+ Laparoscopy or 
+laparotomy and 
+histology 
+Women visiting outpatient 
+department with 
+suspected endometriosis 
+based on clinical 
+presentation (symptoms 
+and pelvic examination), 
+transvaginal 
+ultrasonography and/or 
+blood test for Ca-125 
+N=74 
+Pelvic endometriosis 
+Sensitivity and specificity","What is the sensitivity and specificity of DIE site in uterosacral ligament according to Okada 1995 in Japan?
+",The sensitivity and specificity of DIE site in uterosacral ligament according to Okada 1995 in Japan is not provided in the context.,NICE-2017.pdf,,,,,,
+40,"230    Practice Bulletin    Management of Endometriosis 
+    
+OBSTETRICS & GYNECOLOGY
+Similar results were seen in a more recent study of 
+120 patients who underwent excision of the endome-
+triosis and hysterectomy with or without oophorectomy 
+(99). These patients were monitored for a median dura-
+tion of 7.6–11 years. Most patients did not require reop-
+eration, even with conservation of the ovaries. Therefore, 
+in patients with normal ovaries, a hysterectomy with ovar-
+ian conservation and removal of the endometriotic lesions 
+should be considered. 
+ Can patients have recurrent symptoms after 
+hysterectomy and oophorectomy?
+Symptoms may recur in women even after hysterec-
+tomy and oophorectomy. Endometriosis may recur in 
+up to 15% of women whether or not the patients are 
+treated with estrogen therapy after bilateral oopho-
+rectomy (124). Consequently, hormone therapy with 
+estrogen is not contraindicated after definitive surgery 
+for endometriosis. Although the true rate of recurrence
+is unknown, in patients with recurrent symptoms under-
+going a surgical procedure, endometriotic lesions may 
+be demonstrated. The most common site of recurrent
+lesions is the large and small bowel (125). These 
+lesions were likely present at the time of surgery and 
+not excised. These lesions can be considered persistent 
+disease rather than recurrent disease. Persistence of dis-
+ease in hypoestrogenic states is most likely due to local 
+expression of aromatase activity. Treatment is difficult 
+and often requires surgery. The use of a GnRH agonist 
+in this situation of hypoestrogenemia would not seem to 
+be of benefit. Aromatase inhibitors may be considered 
+but are not uniformly effective (126).
+ What is the role of hormone therapy after 
+definitive surgery for endometriosis-associated 
+pain?
+Currently, there are limited data on the timing of estro-
+gen therapy after hysterectomy with bilateral salpingo-
+oophorectomy for endometriosis. It appears there is no","Can endometriosis recur after hysterectomy and oophorectomy?
+","Yes, endometriosis may recur in up to 15% of women whether or not the patients are treated with estrogen therapy after bilateral oophorectomy.",ACOG-2010.pdf,2.0,"The context does not provide a clear answer to the question. It mentions that symptoms may recur in women after hysterectomy and oophorectomy, but it does not specify whether endometriosis itself can recur. It also mentions that endometriosis may persist in hypoestrogenic states, but it does not specify whether hormone therapy is beneficial in this situation. Therefore, I would rate the total rating as a 2, which means that the context provides only partial answer to the question.
+
+",5.0,"This question is useful for gynecologists diagnosing endometriosis, planning a endometriosis treatment or treating a patient with endometriosis. The question addresses a common concern of patients with endometriosis, which is the possibility of recurrence after surgical treatment. The answer to this question can help gynecologists to manage patient expectations, and to plan appropriate follow-up care.
+",5.0,"This question is about endometriosis, a medical condition, and two medical procedures, hysterectomy and oophorectomy. It is not context-dependent.
+
+"
+41,"366-373 
+Novielli et al., 2010 
+Novielli, N., Cooper, N. J., Abrams, K. R., Sutton, A. J., How is evidence on test performance 
+synthesized for economic decision models of diagnostic tests? A systematic appraisal of 
+Health Technology Assessments in the UK since 1997, Value in health, 13, 952-7, 2010 
+Office of National Statistics (ONS), 2016 
+Office of National Statistics (ONS), Office of National Statistics (ONS), Families and 
+households in the UK: 2016, 2016 
+https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/families/b
+ulletins/familiesandhouseholds/2016 
+Oppelt et al., 2012 
+Oppelt, P., Chavtal, R., Haas, D., Reichert, B., Wagner, S., Muller, A., Lermann, J. H., 
+Renner, S. P., Costs of in-patient treatment for endometriosis in Germany 2006: An analysis 
+based on the G-DRG-Coding, Gynecological Endocrinology, 28, 903-905, 2012","What is the URL for the 2016 Office of National Statistics (ONS) report on families and households in the UK?
+",https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/families/bulletins/familiesandhouseholds/2016,NICE-2017.pdf,4.0,"The context provides the title of the report and the organization that published it. With this information, one can search for the report on the Office of National Statistics (ONS) website. However, it does not provide a direct URL for the report. Therefore, the total rating is 4, as the question is answerable with some extra effort.
+
+",3.0,"This question is useful for Gynecologists diagnosing endometriosis, planning a endometriosis treatment or treating a patient with endometriosis because it provides a source of information about the demographics of families and households in the UK. This information can be useful for understanding the social and economic context in which patients with endometriosis live, which can inform treatment decisions and improve patient outcomes.
+",1.0,"The question refers to a particular report, so it is not independent from the context.
+
+"
+42,"Endometriosis 
+Management strategies 
+ISBN 978-1-4731-2661-9 
+250 
+Outcomes 
+Illustrative comparative risks* 
+(95% CI) 
+Relative 
+effect 
+(95% CI) 
+No of 
+participants 
+(studies) 
+Quality of 
+the 
+evidence 
+(GRADE) 
+Assumed 
+risk 
+Corresponding risk 
+intervention groups 
+was 
+0.69 lower 
+(2.31 lower to 0.93 
+higher) 
+Change (from 
+baseline) in patient 
+assessed QoL 
+(MYMOP) at week 
+16 – wellbeing 
+- 
+The mean change 
+(from baseline) in 
+patient assessed QoL 
+(MYMOP) at week 16– 
+wellbeing in the 
+intervention groups 
+was 
+1.06 lower 
+(2.95 lower to 0.83 
+higher) 
+MD -
+1.06 (-
+2.95 to 
+0.83) 
+17 
+(1 study) 
+⊕⊕⊝⊝ 
+low1,3 
+Change (from 
+baseline) in QoL 
+(EHP 30) at week 
+16 – pain 
+- 
+The mean change 
+(from baseline) in QoL 
+(EHP-30) at week 16 – 
+pain in the intervention 
+groups was 
+0.32 lower 
+(10.01 lower to 9.37 
+higher) 
+MD -
+0.32 (-
+10.01 to 
+9.37) 
+18 
+(1 study) 
+⊕⊝⊝⊝ 
+Very low1,2 
+Change (from 
+baseline) in QoL 
+(EHP 30) at week 
+16 – control and 
+powerlessness 
+- 
+The mean change 
+(from baseline) in QoL 
+(EHP-30) at week 16–- 
+control and 
+powerlessness in the 
+intervention groups 
+was 
+1.73 lower 
+(7.35 lower to 3.89 
+higher) 
+MD -
+1.73 (-
+7.35 to 
+3.89) 
+18 
+(1 study) 
+⊕⊝⊝⊝ 
+Very low1,2 
+Change (from 
+baseline) in QoL 
+(EHP 30) at week 
+16 – emotional 
+wellbeing 
+- 
+The mean change 
+(from baseline) in QoL 
+(EHP-30) at week 16 – 
+emotional wellbeing in 
+the intervention groups 
+was 
+0.37 lower 
+(4.38 lower to 3.64 
+higher) 
+MD -
+0.37 (-
+4.38 to 
+3.64) 
+18 
+(1 study) 
+⊕⊝⊝⊝ 
+Very low1,2 
+Change (from 
+baseline) in QoL 
+(EHP 30) at week 
+16 – social support 
+- 
+The mean change 
+(from baseline) in QoL 
+(EHP-30) at week 16 – 
+social support in the 
+intervention groups 
+was 
+2.71 lower 
+(7.09 lower to 1.67 
+higher) 
+MD -
+2.71 (-
+7.09 to 
+1.67) 
+18 
+(1 study) 
+⊕⊕⊝⊝ 
+Low1,3 
+Change (from 
+baseline) in QoL 
+(EHP 30) at week 
+16 – self-image 
+- 
+The mean change 
+(from baseline) in QoL 
+(EHP-30) at week 16 – 
+self-image in the 
+MD 0.46 
+(-2.22 to 
+3.14) 
+18","What is the mean change in patient assessed QoL (MYMOP) at week 16 – wellbeing in the intervention groups?
+",The mean change (from baseline) in patient assessed QoL (MYMOP) at week 16 – wellbeing in the intervention groups is 1.06 lower (-2.95 to 0.83 higher).,NICE-2017.pdf,5.0,"The context provides the mean change in patient assessed QoL (MYMOP) at week 16 – wellbeing in the intervention groups, which is 1.06 lower (2.95 lower to 0.83 higher). This information is sufficient to answer the question unambiguously.
+
+",5.0,"This question is useful for gynecologists diagnosing endometriosis, planning a endometriosis treatment or treating a patient with endometriosis, as it provides information about the change in patient assessed QoL (MYMOP) at week 16 – wellbeing in the intervention groups. This can help gynecologists to evaluate the effectiveness of different interventions and choose the best treatment option for their patients.
+",,
+43,"Endometriosis 
+Management strategies 
+ISBN 978-1-4731-2661-9 
+301 
+Treatment 
+Cost 
+QALY 
+ICER 
+Pr. cost-
+effective 
+vs. no 
+treatment 
+(£20k / 
+QALY) 
+Pr. cost-
+effective 
+vs. no 
+treatment 
+(£30k / 
+QALY) 
+Pr. Live 
+Birth 
+Transabdomin
+al Ultrasound 
+and 
+Laparoscopy + 
+Hormonal 
+£18,216.92 
+19.208 
+Dominated 
+63.69% 
+63.69% 
+15.48% 
+CA-125 and 
+Laparoscopic 
+Treatment 
+£14,605.81 
+19.227 
+-£33,216.05 
+64.29% 
+64.29% 
+15.48% 
+Empirical 
+Diagnosis and 
+Laparoscopy + 
+Hormonal 
+£34,692.83 
+19.294 
+Dominated 
+66.07% 
+66.67% 
+15.48% 
+Laparoscopy 
+and 
+Laparoscopy + 
+Hormonal 
+£29,321.88 
+19.320 
+Dominated 
+59.52% 
+59.52% 
+20.24% 
+Pelvic MRI and 
+Laparoscopy + 
+Hormonal 
+£22,248.26 
+19.350 
+Dominated 
+63.10% 
+63.10% 
+18.45% 
+Empirical 
+Diagnosis and 
+Laparoscopic 
+Treatment 
+£27,712.68 
+19.355 
+Dominated 
+62.50% 
+62.50% 
+19.64% 
+Transabdomin
+al Ultrasound 
+and 
+Laparoscopic 
+Treatment 
+£17,058.07 
+19.407 
+£13,607.13 
+66.67% 
+67.26% 
+22.02% 
+Laparoscopy 
+and 
+Laparoscopic 
+Treatment 
+£27,444.47 
+19.409 
+Dominated 
+63.69% 
+63.69% 
+22.02% 
+Pelvic MRI and 
+Laparoscopic 
+Treatment 
+£19,424.28 
+19.415 
+£300,633.6
+4 
+58.33% 
+58.33% 
+23.21% 
+11.3.9 
+Clinical evidence statements 
+11.3.9.1 
+Pain 
+Pain recurrence 
+Low quality evidence from 1 trial (n= 53) reported that there is no clinically significant 
+difference between intranasal nafarelin and placebo after surgery for pain recurrence 
+(measured using Andersch and Milsom scale). 
+Very low quality evidence from 4 trials (n= 476) found that there is no clinically significant 
+difference between hormonal treatment (triptorelin, goserelin, decapeptyl, letrozole and 
+danazol) and no treatment after surgery for pain recurrence at 12 months.","Is there a difference in pain recurrence between hormonal treatment and no treatment after surgery for endometriosis?
+","According to very low quality evidence from 4 trials, there is no clinically significant difference between hormonal treatment and no treatment after surgery for pain recurrence at 12 months.",NICE-2017.pdf,5.0,"The context provides information about the cost, QALY, ICER, and Pr. cost-effective of different treatment options for endometriosis, as well as their effectiveness in reducing pain recurrence compared to no treatment. The question asks about the difference in pain recurrence between hormonal treatment and no treatment specifically. The context includes very low quality evidence from 4 trials (n=476) that found no clinically significant difference between hormonal treatment (triptorelin, goserelin, decapeptyl, letrozole and danazol) and no treatment after surgery for pain recurrence at 12 months. Therefore, I would rate this a 5 out of 5, as the context provides sufficient information to unambiguously answer the question.
+
+",4.0,"This question is useful for gynecologists who are considering hormonal treatment options for patients after endometriosis surgery. It addresses the potential difference in pain recurrence between hormonal treatment and no treatment, which is an important factor in treatment planning.
+",,
+44,"Prevention of pelvic side wall adhesions using barrier methods:
+e-PTFE (Gore-Tex Surgical Membrane) and oxidised regenerated
+cellulose (Interceed, TC7): preliminary report. The Adhesion
+Barriers Study Group. Fertility & Sterility 1992;S27 (abstract):58.
+Keckstein 1996 {published data only}
+Keckstein J, Karageorgieva E, Sasse V, Roth A, Tuttlies F,
+Ulrich U. Reduction of postoperative adhesion formation afer
+laparoscopic ovarian cystectomy. International Journal of
+Gynecology & Obstetrics 1994;46(Suppl 1):9.
+*  Keckstein J, Ulrich U, Sasse V, Roth A, Tuttlies F,
+Karageorgieva E. Reduction of postoperative adhesion
+formation afer laparoscopic ovarian cystectomy. Human
+Reproduction 1996;11(3):579-82.
+Korell 1994 {published data only}
+Korell M. Reduction of adhesion by INTERCEED Barrier and
+Gortex Surgical Membrane afer laparoscopic myomectomy.
+Presented at: ""Moglichkeiten der Adhasionprophylaxe,"" April
+1994, Munich, Germany. Munich.
+Li 1994 {published data only}
+Li TC, Cooke ID. The value of an absorbable adhesion barrier,
+Interceed, in the prevention of adhesion reformation following
+microsurgical adhesiolysis. British Journal of Obstetrics &
+Gynaecology 1994;101(4):335-9.
+Mais 1995a {published data only}
+Mais V, Ajossa S, Marongiu D, Peiretti R, Guerriero S, Melis G.
+Reduction of adhesion reformation afer laparoscopic
+endometriosis surgery: a randomised trial with an oxidized
+regenerated cellulose absorbable barrier. Obstetrics &
+Gynecology 1995;86(4 Pt 1):512-5.
+Mais 1995b {published data only}
+Mais V, Ajossa S, Piras B, Guerriero S, Marongiu D, Melis G.
+Prevention of de-novo adhesion formation afer laparoscopic
+myomectomy: a randomized trial to evaluate the efectiveness
+of an oxidized regenerated cellulose absorbable barrier. Human
+Reproduction 1995;10(12):3133-5. Also presented as an abstract
+Barrier agents for adhesion prevention afer gynaecological surgery (Review)
+Copyright © 2020 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+25","Which journal published a study on the reduction of postoperative adhesion formation after laparoscopic ovarian cystectomy using an oxidized regenerated cellulose absorbable barrier?
+",The International Journal of Gynecology & Obstetrics published a study on the reduction of postoperative adhesion formation after laparoscopic ovarian cystectomy using an oxidized regenerated cellulose absorbable barrier.,cochrane-adhesion-2020.pdf,1.0,"The context provides information about several studies on the reduction of postoperative adhesion formation after laparoscopic surgeries using barrier methods, including oxidized regenerated cellulose (Interceed, TC7). However, it does not specify which journal published a study specifically on the reduction of postoperative adhesion formation after laparoscopic ovarian cystectomy using an oxidized regenerated cellulose absorbable barrier. Therefore, the question cannot be answered unambiguously with the given context.
+
+",,,,
+45,"Endometriosis 
+Diagnosis 
+ISBN 978-1-4731-2661-9 
+140 
+Table 39: Costs and Lifetime QALYs of offering various treatment options in 
+combination with CA-125 (showing only non-dominated strategies) 
+Treatment 
+Cost 
+QALY 
+ICER 
+Probability 
+cost-effective 
+vs no 
+treatment 
+(£20,000 / 
+QALY) 
+Probability 
+cost-effective 
+vs no 
+treatment 
+(£30,000 / 
+QALY) 
+Empirical 
+Diagnosis & 
+No Treatment 
+£22,752.60 
+18.120 
+Base Case 
+N/A 
+N/A 
+CA-125 & 
+Combined 
+Oral 
+Contraceptive 
+Pill 
+£20,623.23 
+18.219 
+-£21,519.76 
+53.8% 
+53.8% 
+CA-125 & 
+Danazol 
+£22,067.12 
+18.252 
+Extendedly 
+Dominated 
+47.3% 
+48.4% 
+CA-125 & 
+Laparoscopic 
+Treatment 
+£24,377.37 
+18.328 
+Extendedly 
+Dominated 
+76.9% 
+82.4% 
+CA-125 & 
+Laparoscopy 
++ Hormonal 
+£25,381.47 
+18.505 
+£13,084.94 
+70.3% 
+75.8% 
+9.3.1.5 
+Clinical evidence statements 
+Very low quality evidence from 24 studies (n=2491) showed that sensitivity and specificity of 
+serum CA-125 in detecting endometriosis was 38% (30% to 47%) and 92% (89% to 94%).  
+Moderate quality evidence from 1 study (n=101) showed that sensitivity and specificity of 
+serum CA-125 in detecting endometrioma was 59% (39% to 76%) and 79% (68% to 88%). 
+9.3.1.6 
+Evidence to recommendations 
+9.3.1.6.1 
+Relative value placed on the outcomes considered 
+As sensitivity and specificity reflect patient outcomes, these were prioritised as critical 
+outcomes for this review. Although the Committee did not specify clinically important 
+thresholds for these 2 diagnostic measures, the imprecision of estimates were assessed 
+according to the confidence region around the pooled estimate in the ROC plots. 
+Inconclusive results and test complications were also considered by the Committee. Quality 
+of life was prioritised as an outcome if this were available. The Committee was particularly 
+interested in the sensitivity of the test as high sensitivity would mean the cheaper CA-125","What is the sensitivity of serum CA-125 in detecting endometriosis?
+",The sensitivity of serum CA-125 in detecting endometriosis is 38% (30% to 47%).,NICE-2017.pdf,,,,,,

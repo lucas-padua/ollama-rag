@@ -21,7 +21,7 @@ import time
 class RAGPipeline:
     def __init__(self, documents_path):
         Settings.llm = Ollama(
-            model="medllama2",
+            model="deepseek-r1:7b",
             request_timeout=600,
             base_url="http://ollama:11434",
         )
@@ -36,7 +36,7 @@ class RAGPipeline:
         You are a Gynecologist, and your expertise is in endometriosis. \n
         Respond to the query with the provided documents. \n
         Query: {query_str}. \n
-        Be concise and provide reference if possible.
+        Be concise and provide reference.
         """
         qa_prompt = PromptTemplate(qa_prompt_template)
 
